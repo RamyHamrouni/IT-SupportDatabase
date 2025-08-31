@@ -111,438 +111,3968 @@
       "past_tickets": []
     }
   ],
-  "kb": [
+  "kb":[
     {
-      "id": "KB-001",
-      "category": "Printer",
-      "issue_code": "PR-001",
-      "question": "Printer shows 'Paper Jam' error",
-      "answer": "If your HP printer shows a 'Paper Jam' error, follow these steps:\n1. Power off printer and unplug.\n2. Open all covers and remove jammed paper carefully.\n3. Inspect rollers and paper paths for debris.\n4. Close covers and power on.\n5. Print a test page to confirm resolution.\nFor more info: Click here.",
-      "tags": [
-        "printer",
-        "paper jam"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Paper-Jam/td-p/12345"
-    },
-    {
-      "id": "KB-002",
-      "category": "Printer",
-      "issue_code": "PR-002",
-      "question": "Printer not connecting to Wi-Fi",
-      "answer": "If your printer cannot connect to Wi-Fi:\n1. Ensure printer and router are powered on and in range.\n2. Restart both devices.\n3. Reconnect printer using wireless setup.\n4. Confirm correct Wi-Fi password.\n5. Check firewall/antivirus.\n6. Print a network configuration page.\nFor details: Click here.",
-      "tags": [
-        "printer",
-        "wifi",
-        "network"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/WiFi-Setup/td-p/67890"
-    },
-    {
-      "id": "KB-003",
-      "category": "Windows",
-      "issue_code": "WIN-001",
-      "question": "Cannot install HP driver on Windows 11",
-      "answer": "To install an HP driver on Windows 11:\n1. Download latest driver from HP Support.\n2. Right-click and 'Run as administrator'.\n3. Temporarily disable antivirus.\n4. Follow prompts.\n5. Restart computer.\n6. Verify driver in Device Manager.\nMore info: Click here.",
-      "tags": [
-        "windows",
-        "driver",
-        "installation"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Driver-Installation-Issues/td-p/13579"
-    },
-    {
-      "id": "KB-004",
-      "category": "Network",
-      "issue_code": "NET-001",
-      "question": "VPN disconnects frequently",
-      "answer": "If VPN disconnects frequently:\n1. Restart VPN client and computer.\n2. Check internet connection.\n3. Update VPN client.\n4. Verify firewall settings.\n5. Try different network/server.\nFor details: Click here.",
-      "tags": [
-        "vpn",
-        "network",
-        "disconnect"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/VPN-Troubleshooting/td-p/24680"
-    },
-    {
-      "id": "KB-005",
-      "category": "Account",
-      "issue_code": "ACC-001",
-      "question": "Forgot HP account password",
-      "answer": "To reset HP account password:\n1. Visit https://account.hp.com.\n2. Click 'Forgot Password'.\n3. Enter registered email.\n4. Follow instructions to reset.\n5. Log in with new password.\nMore info: Click here.",
-      "tags": [
-        "account",
-        "password",
-        "login"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Password-Reset/td-p/11223"
-    },
-    {
-      "id": "KB-006",
+      "id": "KB-011",
       "category": "Software",
-      "issue_code": "SW-001",
-      "question": "Application crashes on launch",
-      "answer": "If an HP application crashes on launch:\n1. Restart computer.\n2. Ensure application updated.\n3. Reinstall application.\n4. Check system updates.\n5. Temporarily disable antivirus.\n6. Check for conflicts.\nMore info: Click here.",
+      "issue_code": "SW-002",
+      "question": "HP Smart app cannot find my printer",
+      "answer": "If HP Smart cannot find your printer:\n1. Ensure printer and computer are on the same Wi-Fi network.\n2. Restart your printer, computer, and Wi-Fi router.\n3. Make sure the printer is not in sleep mode.\n4. Temporarily disable any VPN or firewall.\n5. Re-add the printer in the HP Smart app.\nFor more info: Click here.",
       "tags": [
         "software",
-        "crash"
+        "hp smart",
+        "discovery"
       ],
-      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/App-Crash/td-p/33456"
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/HPSmart-Discovery/td-p/88991"
     },
     {
-      "id": "KB-007",
+      "id": "KB-012",
+      "category": "Windows",
+      "issue_code": "WIN-003",
+      "question": "My HP laptop is running very slow",
+      "answer": "To improve slow performance on a Windows laptop:\n1. Run Disk Cleanup to remove temporary files.\n2. Disable startup programs via Task Manager.\n3. Scan for malware and viruses.\n4. Update Windows and all drivers.\n5. Check for overheating.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "performance",
+        "slow"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Slow-Performance/td-p/99002"
+    },
+    {
+      "id": "KB-013",
       "category": "Printer",
-      "issue_code": "PR-003",
-      "question": "Printer prints blank pages",
-      "answer": "If printer prints blank pages:\n1. Check toner/ink levels.\n2. Ensure cartridges installed properly.\n3. Run cleaning cycle.\n4. Verify print settings.\n5. Restart printer.\nMore info: Click here.",
+      "issue_code": "PR-004",
+      "question": "How to check ink levels on my printer?",
+      "answer": "To check ink/toner levels:\n1. Use the printer's control panel display.\n2. Use the HP Smart app on your computer or mobile device.\n3. Print a printer status report.\n4. Open the HP printer software on your computer.\nMore info: Click here.",
       "tags": [
         "printer",
         "ink",
-        "toner"
+        "toner",
+        "levels"
       ],
-      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Blank-Pages/td-p/44567"
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Check-Ink-Levels/td-p/11235"
     },
     {
-      "id": "KB-008",
+      "id": "KB-014",
       "category": "Network",
-      "issue_code": "NET-002",
-      "question": "Cannot access internal network drives",
-      "answer": "If you cannot access internal network drives:\n1. Check VPN connection.\n2. Verify permissions.\n3. Restart computer.\n4. Test on another device.\nMore info: Click here.",
+      "issue_code": "NET-003",
+      "question": "Wi-Fi signal is weak and intermittent",
+      "answer": "To improve a weak Wi-Fi signal:\n1. Move the router to a central location.\n2. Keep router away from metal objects and microwaves.\n3. Update your router's firmware.\n4. Use a Wi-Fi extender or mesh system.\n5. Change the Wi-Fi channel.\nFor details: Click here.",
       "tags": [
         "network",
-        "vpn"
+        "wifi",
+        "signal"
       ],
-      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Internal-Drives/td-p/55678"
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Weak-WiFi-Signal/td-p/22345"
     },
     {
-      "id": "KB-009",
-      "category": "Windows",
-      "issue_code": "WIN-002",
-      "question": "Blue screen error after update",
-      "answer": "If BSOD after update:\n1. Boot in Safe Mode.\n2. Uninstall recent updates.\n3. Run system file checker.\n4. Check driver updates.\n5. System restore if necessary.\nMore info: Click here.",
-      "tags": [
-        "windows",
-        "bsod"
-      ],
-      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/BSOD/td-p/66789"
-    },
-    {
-      "id": "KB-010",
+      "id": "KB-015",
       "category": "Account",
-      "issue_code": "ACC-002",
-      "question": "Cannot login to HP account",
-      "answer": "If you cannot login:\n1. Reset password.\n2. Clear browser cache.\n3. Try different browser.\n4. Check verification email.\nMore info: Click here.",
+      "issue_code": "ACC-003",
+      "question": "How do I update the email address on my HP account?",
+      "answer": "To change your HP account email:\n1. Log in to your HP account.\n2. Go to 'Account Settings' or 'Profile'.\n3. Find the option to edit your email address.\n4. Enter the new email and confirm.\n5. Verify the new email via a confirmation link sent to you.\nMore info: Click here.",
       "tags": [
         "account",
+        "email",
+        "update"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Update-Email/td-p/33456"
+    },
+    {
+      "id": "KB-016",
+      "category": "Printer",
+      "issue_code": "PR-005",
+      "question": "A print job is stuck in the queue",
+      "answer": "To clear a stuck print job:\n1. Open 'Printers & Scanners' in system settings.\n2. Select your printer and click 'Open print queue'.\n3. In the queue window, click 'Printer' and select 'Cancel All Documents'.\n4. If it doesn't clear, restart the Print Spooler service.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "queue",
+        "stuck"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Stuck-Queue/td-p/44567"
+    },
+    {
+      "id": "KB-017",
+      "category": "Windows",
+      "issue_code": "WIN-004",
+      "question": "Windows Update fails with an error code",
+      "answer": "If a Windows Update fails:\n1. Run the Windows Update Troubleshooter.\n2. Ensure you have enough free disk space.\n3. Temporarily disable third-party antivirus.\n4. Manually download the update from the Microsoft Update Catalog.\n5. Run SFC and DISM scans.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "update",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Update-Fails/td-p/55678"
+    },
+    {
+      "id": "KB-018",
+      "category": "Software",
+      "issue_code": "SW-003",
+      "question": "Software installation is stuck or frozen",
+      "answer": "If software installation freezes:\n1. Cancel the installation. If it doesn't respond, use Task Manager to end the process.\n2. Reboot your computer.\n3. Temporarily disable your antivirus software.\n4. Run the installer as an administrator.\n5. Ensure all Windows updates are installed.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "install",
+        "freeze"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Install-Stuck/td-p/66789"
+    },
+    {
+      "id": "KB-019",
+      "category": "Printer",
+      "issue_code": "PR-006",
+      "question": "My printer is printing streaked or faded pages",
+      "answer": "For streaked or faded prints:\n1. Check if ink or toner levels are low and replace if necessary.\n2. Run the print head cleaning utility from the printer software.\n3. Perform a print head alignment.\n4. Ensure you are using genuine HP cartridges.\n5. Check that the paper type settings match the paper being used.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "streaks",
+        "faded",
+        "quality"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Print-Quality/td-p/77890"
+    },
+    {
+      "id": "KB-020",
+      "category": "Network",
+      "issue_code": "NET-004",
+      "question": "I cannot connect to a specific website, but others work",
+      "answer": "If you can't access one specific website:\n1. Clear your browser's cache, cookies, and history.\n2. Try accessing the site using a different browser or device.\n3. Flush your computer's DNS cache.\n4. Temporarily disable your firewall or VPN to test.\n5. Check if the website is down for everyone using a service like downforeveryoneorjustme.com.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "website",
+        "access"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Website-Access-Issue/td-p/88901"
+    },
+    {
+      "id": "KB-021",
+      "category": "Account",
+      "issue_code": "ACC-004",
+      "question": "My account is locked after too many login attempts",
+      "answer": "If your account is locked:\n1. Wait for the designated lockout period to expire (usually 15-60 minutes).\n2. Use the 'Forgot Password' link to reset your password.\n3. Ensure you are using the correct username or email.\n4. Check for emails from HP regarding the lockout.\n5. Contact HP support if the issue persists.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "locked",
         "login"
       ],
-      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Login-Issues/td-p/77890"
-    }
-  ],
-  "guide": [
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Account-Locked/td-p/99012"
+    },
     {
-      "id": "GUIDE-001",
-      "category": "Hardware",
-      "issue_code": "HW-001",
-      "issue": "Laptop not powering on",
+      "id": "KB-022",
+      "category": "Windows",
+      "issue_code": "WIN-005",
+      "question": "Sound is not working on my HP computer",
+      "answer": "If you have no sound:\n1. Check that the volume is not muted and is turned up.\n2. Verify the correct playback device is selected in Sound settings.\n3. Run the Windows Audio Troubleshooter.\n4. Update your audio drivers via Device Manager or HP Support Assistant.\n5. Restart your computer.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "audio",
+        "sound"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/No-Sound/td-p/12131"
+    },
+    {
+      "id": "KB-023",
+      "category": "Printer",
+      "issue_code": "PR-007",
+      "question": "The scanner on my all-in-one printer isn't working",
+      "answer": "If the scanner is not working:\n1. Ensure the printer is powered on and connected to the computer.\n2. Restart both the printer and the computer.\n3. Update the printer driver and scanning software.\n4. Try scanning using a different application (e.g., Windows Fax and Scan).\n5. Check the connection cable (USB or network).\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "scanner",
+        "aio"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Scanner-Not-Working/td-p/23242"
+    },
+    {
+      "id": "KB-024",
+      "category": "Software",
+      "issue_code": "SW-004",
+      "question": "Application shows a 'Missing .DLL file' error",
+      "answer": "If you get a missing DLL error:\n1. Do not download the DLL file from a random website.\n2. Reinstall the application that is causing the error.\n3. Run the System File Checker (sfc /scannow).\n4. Update Windows and your device drivers.\n5. Install the latest Microsoft Visual C++ Redistributable package.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "dll",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Missing-DLL/td-p/34353"
+    },
+    {
+      "id": "KB-025",
+      "category": "Network",
+      "issue_code": "NET-005",
+      "question": "Wi-Fi shows 'No Internet, Secured' message",
+      "answer": "To fix 'No Internet, Secured' error:\n1. Restart your router and your computer.\n2. Run the Windows Network Troubleshooter.\n3. Reset TCP/IP stack and flush DNS.\n4. Update your network adapter driver.\n5. Check if other devices on the same network have internet access.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "wifi",
+        "no internet"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/No-Internet-Secured/td-p/45464"
+    },
+    {
+      "id": "KB-026",
+      "category": "Printer",
+      "issue_code": "PR-008",
+      "question": "My printer appears as 'Offline'",
+      "answer": "If your printer is offline:\n1. Check the printer's power and cable connections.\n2. Restart the printer and your computer.\n3. Ensure the printer is connected to the correct network.\n4. In 'Printers & Scanners', right-click your printer and uncheck 'Use Printer Offline'.\n5. Restart the Print Spooler service.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "offline"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Printer-Offline/td-p/56575"
+    },
+    {
+      "id": "KB-027",
+      "category": "Windows",
+      "issue_code": "WIN-006",
+      "question": "My webcam or camera is not detected",
+      "answer": "If your webcam is not detected:\n1. Ensure the camera's privacy shutter is not closed.\n2. Check your privacy settings to allow apps to access the camera.\n3. Update the camera driver in Device Manager.\n4. Check for a physical switch or keyboard key that disables the camera.\n5. Reinstall the camera driver from HP's website.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "camera",
+        "webcam"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Camera-Not-Detected/td-p/67686"
+    },
+    {
+      "id": "KB-028",
+      "category": "Account",
+      "issue_code": "ACC-005",
+      "question": "How to enable Two-Factor Authentication (2FA)?",
+      "answer": "To enable 2FA on your HP account:\n1. Log in and navigate to 'Security Settings'.\n2. Look for the 'Two-Step Verification' or '2FA' option and click enable.\n3. Choose your verification method (Authenticator App, SMS, etc.).\n4. Follow the on-screen instructions to complete the setup.\n5. Save your backup codes in a safe place.\nMore info: Click here.",
+      "tags": [
+        "account",
+        "security",
+        "2fa"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Enable-2FA/td-p/78797"
+    },
+    {
+      "id": "KB-029",
+      "category": "Printer",
+      "issue_code": "PR-009",
+      "question": "Error code appears on my printer's display",
+      "answer": "If you see an error code:\n1. Power cycle the printer by turning it off and on again.\n2. Search for the specific error code on the HP support website.\n3. Check for obvious issues like paper jams or open covers.\n4. Ensure the firmware is up to date.\n5. Reseat the ink or toner cartridges.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "error",
+        "code"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Error-Codes/td-p/89808"
+    },
+    {
+      "id": "KB-030",
+      "category": "Network",
+      "issue_code": "NET-006",
+      "question": "How to find my computer's IP address?",
+      "answer": "To find your IP address on Windows:\n1. Open Command Prompt by typing 'cmd' in the Start Menu.\n2. Type the command 'ipconfig' and press Enter.\n3. Look for the 'IPv4 Address' value under your active network adapter (e.g., 'Ethernet adapter' or 'Wireless LAN adapter').\nMore info: Click here.",
+      "tags": [
+        "network",
+        "ip address",
+        "ipconfig"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Find-IP-Address/td-p/90919"
+    },
+    {
+      "id": "KB-031",
+      "category": "Software",
+      "issue_code": "SW-005",
+      "question": "How do I completely uninstall HP software?",
+      "answer": "To fully uninstall HP software:\n1. Go to 'Apps & features' in Windows Settings.\n2. Find the HP application in the list and click 'Uninstall'.\n3. Follow the uninstallation prompts.\n4. For a clean removal, use the HP Uninstaller utility if available, or check for leftover files in Program Files and AppData folders.\n5. Reboot your PC.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "uninstall",
+        "remove"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Complete-Uninstall/td-p/10101"
+    },
+    {
+      "id": "KB-032",
+      "category": "Windows",
+      "issue_code": "WIN-007",
+      "question": "My laptop battery is draining too quickly",
+      "answer": "If your battery drains quickly:\n1. Reduce screen brightness.\n2. Change the power mode to 'Best power efficiency'.\n3. Check which apps are using the most battery in Settings > System > Power & battery.\n4. Close unused applications and background processes.\n5. Run the HP Battery Check in HP Support Assistant.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "battery",
+        "laptop"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Battery-Drain/td-p/21212"
+    },
+    {
+      "id": "KB-033",
+      "category": "Printer",
+      "issue_code": "PR-010",
+      "question": "Printing is very slow",
+      "answer": "To fix slow printing:\n1. Check your print quality settings; select a lower quality like 'draft' for faster printing.\n2. Update the printer's driver and firmware.\n3. Ensure your computer and printer are connected via a high-speed USB cable or a strong Wi-Fi signal.\n4. Simplify the document if it contains complex graphics.\n5. Restart both your computer and printer.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "slow",
+        "speed"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Slow-Printing/td-p/32323"
+    },
+    {
+      "id": "KB-034",
+      "category": "Network",
+      "issue_code": "NET-007",
+      "question": "My Ethernet connection is not working",
+      "answer": "If your wired connection fails:\n1. Check that the Ethernet cable is securely plugged into both the computer and the router.\n2. Try a different Ethernet cable and a different port on the router.\n3. Look for link lights on the Ethernet port; if they are not on, there may be a hardware issue.\n4. Update your network adapter drivers.\n5. Restart your computer and router.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "ethernet",
+        "wired"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Ethernet-Not-Working/td-p/43434"
+    },
+    {
+      "id": "KB-035",
+      "category": "Account",
+      "issue_code": "ACC-006",
+      "question": "How can I delete my HP account?",
+      "answer": "To delete your HP account:\n1. Log in to your HP account.\n2. Navigate to the account settings or privacy section.\n3. Look for an option like 'Delete Account' or 'Close Account'.\n4. Be aware that this is permanent and will remove your product registrations and history.\n5. Follow the on-screen prompts to confirm the deletion.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "delete",
+        "privacy"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Delete-Account/td-p/54545"
+    },
+    {
+      "id": "KB-036",
+      "category": "Windows",
+      "issue_code": "WIN-008",
+      "question": "The touchpad on my laptop stopped working",
+      "answer": "If your touchpad is not working:\n1. Check for a key on your keyboard (often F5, F7, or Fn+key) that toggles the touchpad on/off.\n2. Check the touchpad settings in Windows to ensure it's enabled.\n3. Reinstall the touchpad driver from Device Manager or the HP website.\n4. Ensure no external mouse is connected that might be disabling it.\n5. Restart your laptop.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "touchpad",
+        "laptop"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Touchpad-Issues/td-p/65656"
+    },
+    {
+      "id": "KB-037",
+      "category": "Printer",
+      "issue_code": "PR-011",
+      "question": "My printer is printing the wrong colors",
+      "answer": "If colors are incorrect:\n1. Run a nozzle check and print head cleaning cycle.\n2. Make sure you have not installed a color cartridge in the black slot or vice-versa.\n3. Check that the color settings in the print dialog are correct.\n4. Ensure you are using genuine HP ink cartridges.\n5. The ink cartridge may be empty or defective.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "color",
+        "quality"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Wrong-Colors/td-p/76767"
+    },
+    {
+      "id": "KB-038",
+      "category": "Software",
+      "issue_code": "SW-006",
+      "question": "Software is asking for a license key I don't have",
+      "answer": "If you need a license key:\n1. Check your email for a purchase confirmation from HP or the software vendor.\n2. Log in to your HP account and check under 'My Software' or 'Purchase History'.\n3. If the software came pre-installed, it might not require a key. Try reinstalling from HP Recovery Manager.\n4. Contact HP support with your product and serial number.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "license",
+        "key",
+        "activation"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/License-Key/td-p/87878"
+    },
+    {
+      "id": "KB-039",
+      "category": "Network",
+      "issue_code": "NET-008",
+      "question": "How do I change my Wi-Fi password on my router?",
+      "answer": "To change your Wi-Fi password:\n1. Find your router's IP address (often on a sticker on the router).\n2. Open a web browser and type the IP address into the address bar.\n3. Log in with the router's admin credentials.\n4. Navigate to the Wireless or Wi-Fi settings section.\n5. Enter your new password in the appropriate field and save the changes. Your router will likely restart.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "wifi",
+        "password",
+        "router"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Change-WiFi-Password/td-p/98989"
+    },
+    {
+      "id": "KB-040",
+      "category": "Printer",
+      "issue_code": "PR-012",
+      "question": "I can't print from my phone or tablet",
+      "answer": "To print from a mobile device:\n1. Ensure your device is on the same Wi-Fi network as your printer.\n2. Install the HP Smart app on your phone/tablet.\n3. Use the app to select and print documents or photos.\n4. For iOS, you can also use AirPrint. For Android, you may need to enable the Print Service Plugin.\n5. Restart your printer, phone, and router.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "mobile",
+        "hp smart",
+        "airprint"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Mobile-Printing/td-p/19191"
+    },
+    {
+      "id": "KB-041",
+      "category": "Windows",
+      "issue_code": "WIN-009",
+      "question": "How do I free up disk space on Windows?",
+      "answer": "To free up disk space:\n1. Run the built-in Disk Cleanup tool.\n2. Enable Storage Sense in Settings to automatically clean files.\n3. Uninstall programs you no longer use.\n4. Move large files (photos, videos) to an external drive or cloud storage.\n5. Delete temporary files by typing '%temp%' in the Run dialog.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "disk space",
+        "storage"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Free-Up-Space/td-p/28282"
+    },
+    {
+      "id": "KB-042",
+      "category": "Software",
+      "issue_code": "SW-007",
+      "question": "HP Support Assistant is not working correctly",
+      "answer": "If HP Support Assistant fails:\n1. Ensure you have the latest version installed.\n2. Restart the application and your computer.\n3. Clear the application's cache.\n4. Uninstall and then reinstall HP Support Assistant from the official HP website.\n5. Check that your internet connection is stable.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "hp support assistant"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/HPSA-Not-Working/td-p/37373"
+    },
+    {
+      "id": "KB-043",
+      "category": "Account",
+      "issue_code": "ACC-007",
+      "question": "Where can I find my product's warranty status?",
+      "answer": "To check warranty status:\n1. Visit the HP Customer Support - Product Warranty Check page.\n2. Enter your product's serial number.\n3. Select the country of purchase.\n4. The website will display the warranty status, including start and end dates.\n5. You can also check via HP Support Assistant.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "warranty",
+        "serial number"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Warranty-Check/td-p/46464"
+    },
+    {
+      "id": "KB-044",
+      "category": "Printer",
+      "issue_code": "PR-013",
+      "question": "Printer is not recognized after a Windows update",
+      "answer": "If a Windows update breaks printer functionality:\n1. Go to 'Printers & Scanners' and remove the printer.\n2. Disconnect and reconnect the printer's USB cable.\n3. Reinstall the latest driver from the HP support website.\n4. Run the Windows Printer Troubleshooter.\n5. You may need to roll back the specific Windows update that caused the issue.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "windows",
+        "update",
+        "driver"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Not-Recognized-After-Update/td-p/55555"
+    },
+    {
+      "id": "KB-045",
+      "category": "Network",
+      "issue_code": "NET-009",
+      "question": "The internet disconnects intermittently",
+      "answer": "For intermittent internet drops:\n1. Restart your modem and router.\n2. Check if the issue occurs on multiple devices; if so, the problem is likely with the router or ISP.\n3. Update your network adapter drivers and router firmware.\n4. Position your computer closer to the Wi-Fi router or use a wired connection.\n5. Contact your Internet Service Provider (ISP).\nFor details: Click here.",
+      "tags": [
+        "network",
+        "disconnect",
+        "wifi",
+        "intermittent"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Intermittent-Disconnects/td-p/64646"
+    },
+    {
+      "id": "KB-046",
+      "category": "Windows",
+      "issue_code": "WIN-010",
+      "question": "How to boot into Safe Mode in Windows 11?",
+      "answer": "To boot into Safe Mode:\n1. Go to Settings > System > Recovery.\n2. Under 'Advanced startup', click 'Restart now'.\n3. After restart, choose Troubleshoot > Advanced options > Startup Settings > Restart.\n4. After another restart, press 4 or F4 to enter Safe Mode.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "safe mode",
+        "troubleshooting"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Safe-Mode-Boot/td-p/73737"
+    },
+    {
+      "id": "KB-047",
+      "category": "Printer",
+      "issue_code": "PR-014",
+      "question": "My printer is making loud, unusual noises",
+      "answer": "For unusual printer noises:\n1. Power off the printer immediately.\n2. Open the printer covers and check for any foreign objects or severe paper jams.\n3. Check if the ink/toner cartridge is seated correctly.\n4. Inspect rollers and moving parts for damage or debris.\n5. If the noise persists, it may indicate a mechanical failure requiring service.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "noise",
+        "mechanical"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Loud-Noises/td-p/82828"
+    },
+    {
+      "id": "KB-048",
+      "category": "Software",
+      "issue_code": "SW-008",
+      "question": "How do I disable programs from starting up with Windows?",
+      "answer": "To manage startup programs:\n1. Right-click the Taskbar and select 'Task Manager', or press Ctrl+Shift+Esc.\n2. Go to the 'Startup apps' tab.\n3. Select the application you want to disable.\n4. Click the 'Disable' button at the top right.\n5. This will prevent it from launching automatically when you log in.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "windows",
+        "startup"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Disable-Startup-Apps/td-p/91919"
+    },
+    {
+      "id": "KB-049",
+      "category": "Account",
+      "issue_code": "ACC-008",
+      "question": "I received a suspicious email claiming to be from HP",
+      "answer": "If you receive a suspicious email (phishing):\n1. Do not click any links or download attachments.\n2. Do not reply or provide any personal information.\n3. Check the sender's email address for authenticity; it should come from an official hp.com domain.\n4. Forward the email to HP's security team if they have a designated reporting address.\n5. Delete the email.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "security",
+        "phishing"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Phishing-Email/td-p/18181"
+    },
+    {
+      "id": "KB-050",
+      "category": "Network",
+      "issue_code": "NET-010",
+      "question": "My computer has an IP address conflict",
+      "answer": "To resolve an IP conflict:\n1. Restart your computer. This often allows it to get a new IP address from the router.\n2. Restart your Wi-Fi router.\n3. Run the command 'ipconfig /release' followed by 'ipconfig /renew' in Command Prompt.\n4. If the issue persists, you may need to set a static IP address for your device outside of the router's DHCP range.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "ip address",
+        "conflict"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/IP-Conflict/td-p/27272"
+    },
+    {
+      "id": "KB-051",
+      "category": "Windows",
+      "issue_code": "WIN-011",
+      "question": "Bluetooth is not working or finding devices",
+      "answer": "If Bluetooth isn't working:\n1. Ensure Bluetooth is turned on in Windows Settings.\n2. Put your Bluetooth device into pairing mode.\n3. Run the Bluetooth troubleshooter.\n4. Update your Bluetooth driver from Device Manager.\n5. Make sure Airplane Mode is off.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "bluetooth",
+        "pairing"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Bluetooth-Issues/td-p/36363"
+    },
+    {
+      "id": "KB-052",
+      "category": "Printer",
+      "issue_code": "PR-015",
+      "question": "Paper is not feeding into the printer correctly",
+      "answer": "If paper isn't feeding:\n1. Check if the paper tray is overloaded or if the paper is curled.\n2. Fan the stack of paper before loading it into the tray.\n3. Adjust the paper guides to fit the paper size snugly.\n4. Clean the paper feed rollers with a lint-free cloth lightly dampened with water.\n5. Make sure you are using a supported paper type and weight.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "paper feed",
+        "roller"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Paper-Feed/td-p/45454"
+    },
+    {
+      "id": "KB-053",
+      "category": "Software",
+      "issue_code": "SW-009",
+      "question": "An HP application has high CPU usage",
+      "answer": "To address high CPU usage:\n1. Check for updates for the specific application and for Windows.\n2. Restart the application.\n3. End the process in Task Manager and see if it restarts with normal usage.\n4. Reinstall the application.\n5. If it's a background service, you may be able to disable it in the Services app.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "cpu",
+        "performance"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/High-CPU-Usage/td-p/54545"
+    },
+    {
+      "id": "KB-054",
+      "category": "Account",
+      "issue_code": "ACC-009",
+      "question": "How do I update my payment information?",
+      "answer": "To update payment info:\n1. Log in to your HP account where the subscription or payment method is stored (e.g., HP Instant Ink).\n2. Go to 'Billing' or 'Payment Method'.\n3. Select the option to add a new card or edit an existing one.\n4. Enter the new payment details and save.\n5. Remove the old payment method if desired.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "payment",
+        "billing",
+        "credit card"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Update-Payment/td-p/63636"
+    },
+    {
+      "id": "KB-055",
+      "category": "Network",
+      "issue_code": "NET-011",
+      "question": "Firewall is blocking a trusted application",
+      "answer": "To allow an app through the firewall:\n1. Open 'Windows Defender Firewall' from the Control Panel.\n2. Click 'Allow an app or feature through Windows Defender Firewall'.\n3. Click 'Change settings'.\n4. Find the app in the list and check the boxes for 'Private' and 'Public' networks.\n5. If the app is not in the list, click 'Allow another app...' to add it.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "firewall",
+        "block",
+        "windows"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Firewall-Block/td-p/72727"
+    },
+    {
+      "id": "KB-056",
+      "category": "Windows",
+      "issue_code": "WIN-012",
+      "question": "How to set up multiple monitors?",
+      "answer": "To set up multiple displays:\n1. Connect the second monitor to your computer's video port (HDMI, DisplayPort, etc.).\n2. Windows should automatically detect it. Right-click the desktop and select 'Display settings'.\n3. Under 'Multiple displays', choose how you want to use them ('Extend these displays' is most common).\n4. You can drag the display icons to match their physical layout.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "monitor",
+        "display",
+        "dual monitor"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Multiple-Monitors/td-p/81818"
+    },
+    {
+      "id": "KB-057",
+      "category": "Printer",
+      "issue_code": "PR-016",
+      "question": "My printer does not recognize a new ink cartridge",
+      "answer": "If a cartridge is not recognized:\n1. Ensure you have removed all protective plastic tape from the cartridge.\n2. Power off the printer, remove the cartridge, and then reinstall it firmly.\n3. Clean the cartridge's electrical contacts with a dry, lint-free cloth.\n4. Check that you have purchased the correct cartridge model for your printer.\n5. The cartridge may be defective.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "ink",
+        "cartridge",
+        "unrecognized"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Cartridge-Not-Recognized/td-p/90909"
+    },
+    {
+      "id": "KB-058",
+      "category": "Software",
+      "issue_code": "SW-010",
+      "question": "Application settings are not being saved",
+      "answer": "If settings won't save:\n1. Run the application as an administrator.\n2. Check that the application's configuration files are not set to 'Read-only'.\n3. Temporarily disable antivirus software, which might be preventing file writes.\n4. Reinstall the application, as its configuration files may be corrupt.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "settings",
+        "save",
+        "config"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Settings-Not-Saving/td-p/17171"
+    },
+    {
+      "id": "KB-059",
+      "category": "Account",
+      "issue_code": "ACC-010",
+      "question": "I can't register my new HP product",
+      "answer": "If product registration fails:\n1. Double-check that you are entering the correct serial number and product number.\n2. Ensure you are on the official HP product registration website.\n3. Try using a different web browser or clearing your current browser's cache.\n4. Check if the product is already registered to another account.\n5. Contact HP support for assistance.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "register",
+        "product"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Product-Registration-Fail/td-p/26262"
+    },
+    {
+      "id": "KB-060",
+      "category": "Windows",
+      "issue_code": "WIN-013",
+      "question": "My computer is stuck in a reboot loop",
+      "answer": "For a reboot loop:\n1. Try to boot into the Windows Recovery Environment (WinRE) by force-shutting down three times.\n2. In WinRE, select Troubleshoot > Advanced options > Startup Repair.\n3. If that fails, try uninstalling recent updates or using System Restore.\n4. The issue could be caused by a faulty driver or a hardware problem.\n5. As a last resort, you may need to reset your PC.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "boot",
+        "reboot loop"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Reboot-Loop/td-p/35353"
+    },
+    {
+      "id": "KB-061",
+      "category": "Printer",
+      "issue_code": "PR-017",
+      "question": "How to clean the print heads on my printer?",
+      "answer": "To clean print heads:\n1. Use the automated cleaning utility. On the printer's control panel, go to Settings or Tools, and find 'Clean Printhead'.\n2. You can also run this utility from the HP printer software on your computer.\n3. Running the cleaning cycle 2-3 times may be necessary.\n4. If the problem persists, some models allow for manual cleaning of the print head, but consult your user manual first.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "printhead",
+        "clean",
+        "quality"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Clean-Printhead/td-p/44444"
+    },
+    {
+      "id": "KB-062",
+      "category": "Network",
+      "issue_code": "NET-012",
+      "question": "How to flush the DNS cache in Windows?",
+      "answer": "To flush your DNS cache:\n1. Open Command Prompt as an administrator.\n2. Type the command 'ipconfig /flushdns' and press Enter.\n3. You should see a confirmation message 'Successfully flushed the DNS Resolver Cache'.\n4. This can resolve issues with website access or network connectivity.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "dns",
+        "flush",
+        "cache"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Flush-DNS/td-p/53535"
+    },
+    {
+      "id": "KB-063",
+      "category": "Software",
+      "issue_code": "SW-011",
+      "question": "How do I perform a firmware update on my device?",
+      "answer": "To update firmware:\n1. The easiest method is often through HP Support Assistant, which will detect and install updates.\n2. Alternatively, visit the HP Support website, enter your product number, and download the latest firmware from the 'Firmware' section.\n3. Run the downloaded file and follow the on-screen instructions.\n4. Do not turn off the device during the firmware update.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "firmware",
+        "update"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Firmware-Update/td-p/62626"
+    },
+    {
+      "id": "KB-064",
+      "category": "Windows",
+      "issue_code": "WIN-014",
+      "question": "I have a black screen with only a cursor after login",
+      "answer": "For a black screen with a cursor:\n1. Press Ctrl+Alt+Delete and select Task Manager.\n2. Go to File > Run new task.\n3. Type 'explorer.exe' and press Enter. This may restart the Windows shell.\n4. If that works, the issue is likely a startup program. Use the Startup tab in Task Manager to disable apps.\n5. If it doesn't work, try booting into Safe Mode to troubleshoot drivers.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "black screen",
+        "bsod"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Black-Screen-Cursor/td-p/71717"
+    },
+    {
+      "id": "KB-065",
+      "category": "Printer",
+      "issue_code": "PR-018",
+      "question": "How do I set up scan to email?",
+      "answer": "To set up scan to email:\n1. Access the printer's Embedded Web Server (EWS) by typing its IP address into a web browser.\n2. Navigate to the 'Scan' or 'Digital Sending' section.\n3. Find the 'Scan to Email' or 'Email Profiles' setup.\n4. You will need to enter your email address, password, and your email provider's SMTP server settings.\n5. Save the profile and perform a test scan.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "scanner",
+        "email",
+        "smtp"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Scan-to-Email-Setup/td-p/80808"
+    },
+    {
+      "id": "KB-066",
+      "category": "Account",
+      "issue_code": "ACC-011",
+      "question": "The password reset link is not working or not arriving",
+      "answer": "If the reset link isn't working:\n1. Check your spam or junk folder for the email.\n2. Wait a few minutes as there can be a delay.\n3. Request the password reset again, ensuring your email address is spelled correctly.\n4. Try clearing your browser cache before clicking the link.\n5. If it still fails, you may need to contact HP support for manual verification.\nMore info: Click here.",
+      "tags": [
+        "account",
+        "password",
+        "reset",
+        "email"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Reset-Link-Fail/td-p/89898"
+    },
+    {
+      "id": "KB-067",
+      "category": "Network",
+      "issue_code": "NET-013",
+      "question": "My laptop's mobile hotspot feature is not working",
+      "answer": "If mobile hotspot fails:\n1. Go to Settings > Network & internet > Mobile hotspot. Ensure it's turned on.\n2. Check that your network adapter drivers are up to date.\n3. Make sure your internet connection is active.\n4. Run the Network Adapter troubleshooter.\n5. Some cellular data plans do not permit hotspot usage; check with your provider.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "hotspot",
+        "windows",
+        "internet"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Mobile-Hotspot-Fail/td-p/97979"
+    },
+    {
+      "id": "KB-068",
+      "category": "Windows",
+      "issue_code": "WIN-015",
+      "question": "How to run a System File Checker (SFC) scan?",
+      "answer": "To run an SFC scan:\n1. Open Command Prompt or PowerShell as an Administrator.\n2. Type 'sfc /scannow' and press Enter.\n3. The scan will begin and will attempt to repair any corrupt system files it finds.\n4. Do not close the window until the verification is 100% complete.\n5. Restart your computer after the scan is finished.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "sfc",
+        "system files",
+        "repair"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/SFC-Scan/td-p/16161"
+    },
+    {
+      "id": "KB-069",
+      "category": "Software",
+      "issue_code": "SW-012",
+      "question": "A software update has failed to install",
+      "answer": "If a software update fails:\n1. Restart your computer and try the update again.\n2. Make sure you have a stable internet connection.\n3. Temporarily disable your antivirus or firewall, as it may be blocking the update server.\n4. Download the update manually from the HP website instead of using the auto-updater.\n5. Uninstall and reinstall the entire application, then update.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "update",
+        "install",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Update-Fail/td-p/25252"
+    },
+    {
+      "id": "KB-070",
+      "category": "Printer",
+      "issue_code": "PR-019",
+      "question": "Duplex (two-sided) printing is not working",
+      "answer": "To fix duplex printing issues:\n1. Check your printer's specifications to ensure it supports automatic duplexing.\n2. In the print dialog box, go to 'Printer Properties' and look for a 'Duplex Printing' or 'Print on Both Sides' option and ensure it is enabled.\n3. Update your printer drivers.\n4. The paper type may not be supported for duplexing (e.g., photo paper, cardstock).\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "duplex",
+        "two-sided"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Duplex-Printing/td-p/34343"
+    },
+    {
+      "id": "KB-071",
+      "category": "Account",
+      "issue_code": "ACC-012",
+      "question": "I see an 'Email address already in use' error during signup",
+      "answer": "If your email is already in use:\n1. You may already have an HP account. Try using the 'Forgot Password' link on the login page.\n2. You might have used 'Sign in with Google/Apple/Facebook' previously, which created an account for you.\n3. Check for any typos in the email address you entered.\n4. If you believe this is an error, contact HP support to investigate.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "signup",
+        "email",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Email-In-Use/td-p/43434"
+    },
+    {
+      "id": "KB-072",
+      "category": "Windows",
+      "issue_code": "WIN-016",
+      "question": "How to create a system restore point?",
+      "answer": "To create a restore point:\n1. In the Start Menu, search for 'Create a restore point' and open it.\n2. In the System Properties window, under the 'System Protection' tab, click the 'Create...' button.\n3. Give the restore point a descriptive name and click 'Create'.\n4. Windows will create the point, which you can later use to revert system changes.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "system restore",
+        "backup"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Create-Restore-Point/td-p/52525"
+    },
+    {
+      "id": "KB-073",
+      "category": "Network",
+      "issue_code": "NET-014",
+      "question": "DNS server isn't responding",
+      "answer": "If you get a DNS error:\n1. Restart your computer and router.\n2. Try accessing a website using its IP address to see if DNS is the issue.\n3. Flush your DNS cache ('ipconfig /flushdns').\n4. Change your DNS servers to a public provider like Google (8.8.8.8) or Cloudflare (1.1.1.1) in your network adapter settings.\n5. Temporarily disable your firewall.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "dns",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/DNS-Error/td-p/61616"
+    },
+    {
+      "id": "KB-074",
+      "category": "Printer",
+      "issue_code": "PR-020",
+      "question": "How to find my printer's IP address?",
+      "answer": "To find your printer's IP address:\n1. On most network printers, you can print a Network Configuration Page from the control panel menu.\n2. The IP address is often displayed on the printer's screen in the network settings section.\n3. You can also log in to your router's admin page and look at the list of connected devices.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "network",
+        "ip address"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Find-Printer-IP/td-p/70707"
+    },
+    {
+      "id": "KB-075",
+      "category": "Software",
+      "issue_code": "SW-013",
+      "question": "A program is not compatible with Windows 11",
+      "answer": "For compatibility issues:\n1. Right-click the program's executable file and go to 'Properties'.\n2. Go to the 'Compatibility' tab.\n3. Check the box 'Run this program in compatibility mode for:' and select a previous version of Windows (e.g., Windows 10).\n4. You can also try running the Program Compatibility Troubleshooter.\n5. Check the software developer's website for an updated version.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "windows",
+        "compatibility"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Compatibility-Mode/td-p/79797"
+    },
+    {
+      "id": "KB-076",
+      "category": "Account",
+      "issue_code": "ACC-013",
+      "question": "How do I manage my HP communication preferences?",
+      "answer": "To manage email preferences:\n1. Log in to your HP account.\n2. Go to 'Account Settings' or look for a 'Communication Preferences' link.\n3. Here you can opt-in or opt-out of newsletters, marketing emails, and product updates.\n4. You can also find an 'Unsubscribe' link at the bottom of any marketing email from HP.\n5. Save your changes.\nMore info: Click here.",
+      "tags": [
+        "account",
+        "email",
+        "unsubscribe",
+        "privacy"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Communication-Preferences/td-p/88888"
+    },
+    {
+      "id": "KB-077",
+      "category": "Windows",
+      "issue_code": "WIN-017",
+      "question": "Applications won't open or launch",
+      "answer": "If applications won't open:\n1. Restart your computer.\n2. Try running the application as an administrator.\n3. Run an SFC scan to check for corrupt system files.\n4. Reinstall the problematic application.\n5. Check for Windows updates and update your graphics drivers.\n6. Scan for malware.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "application",
+        "launch",
+        "open"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Apps-Wont-Open/td-p/96969"
+    },
+    {
+      "id": "KB-078",
+      "category": "Printer",
+      "issue_code": "PR-021",
+      "question": "The automatic document feeder (ADF) is jamming",
+      "answer": "If the ADF is jamming:\n1. Do not use paper that is wrinkled, curled, or too thick/thin.\n2. Do not overload the ADF tray.\n3. Fan the stack of paper before loading it.\n4. Clean the ADF rollers and separator pad with a soft, lint-free cloth.\n5. Check inside the ADF path for any small pieces of torn paper or debris.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "adf",
+        "scanner",
+        "jam"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/ADF-Jam/td-p/15151"
+    },
+    {
+      "id": "KB-079",
+      "category": "Network",
+      "issue_code": "NET-015",
+      "question": "I can't see other computers on my local network",
+      "answer": "If network discovery fails:\n1. Ensure 'Network discovery' and 'File and printer sharing' are turned on for your current network profile (Private).\n2. Check that all computers are on the same workgroup.\n3. Make sure your firewall is not blocking network discovery.\n4. Restart all computers and your router.\n5. Ensure required services like 'Function Discovery Provider Host' are running.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "discovery",
+        "sharing",
+        "lan"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Network-Discovery/td-p/24242"
+    },
+    {
+      "id": "KB-080",
+      "category": "Software",
+      "issue_code": "SW-014",
+      "question": "HP OMEN Gaming Hub won't open",
+      "answer": "If OMEN Gaming Hub won't open:\n1. Restart your computer.\n2. Terminate the app and its related services from Task Manager.\n3. Go to Apps & Features, find OMEN Gaming Hub, go to advanced options, and try 'Repair' and then 'Reset'.\n4. Uninstall and reinstall the app from the Microsoft Store.\n5. Ensure all related HP drivers and system BIOS are up to date.\nMore info: Click here.",
+      "tags": [
+        "software",
+        "omen",
+        "gaming"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/OMEN-Gaming-Hub-Fail/td-p/33333"
+    },
+    {
+      "id": "KB-081",
+      "category": "Windows",
+      "issue_code": "WIN-018",
+      "question": "'This app can't run on your PC' error",
+      "answer": "If you get this error:\n1. Ensure you have downloaded the correct version (32-bit or 64-bit) for your Windows installation.\n2. Try running the installer as an administrator.\n3. Disable your antivirus temporarily as it might be a false positive.\n4. The installer file might be corrupt; download it again from the official source.\n5. Enable Sideload apps in Developer settings if it's not a Microsoft Store app.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "install",
+        "error",
+        "compatibility"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/App-Cant-Run/td-p/42424"
+    },
+    {
+      "id": "KB-082",
+      "category": "Printer",
+      "issue_code": "PR-022",
+      "question": "How to set a default printer in Windows?",
+      "answer": "To set a default printer:\n1. Go to Settings > Bluetooth & devices > Printers & scanners.\n2. Untick the box for 'Let Windows manage my default printer'.\n3. Click on the printer you want to set as the default.\n4. Click the 'Set as default' button.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "windows",
+        "default"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Set-Default-Printer/td-p/51515"
+    },
+    {
+      "id": "KB-083",
+      "category": "Account",
+      "issue_code": "ACC-014",
+      "question": "What to do if I suspect my HP account was compromised?",
+      "answer": "If your account may be compromised:\n1. Immediately change your password to something strong and unique.\n2. If you use the same password elsewhere, change it there too.\n3. Enable two-factor authentication (2FA) for added security.\n4. Review your account activity for any unauthorized changes or purchases.\n5. Contact HP support to report the incident.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "security",
+        "hacked",
+        "compromised"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Account-Compromised/td-p/60606"
+    },
+    {
+      "id": "KB-084",
+      "category": "Network",
+      "issue_code": "NET-016",
+      "question": "How to create a guest Wi-Fi network?",
+      "answer": "To create a guest network:\n1. Log in to your router's administration page.\n2. Look for a 'Guest Network' or 'Guest Wi-Fi' setting, often in the Wireless section.\n3. Enable the guest network.\n4. Give it a separate name (SSID) and a strong, unique password.\n5. Configure its settings, such as preventing guests from accessing your local network devices.\n6. Save the settings.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "wifi",
+        "guest",
+        "security"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Guest-WiFi/td-p/69696"
+    },
+    {
+      "id": "KB-085",
+      "category": "Windows",
+      "issue_code": "WIN-019",
+      "question": "The time on my computer is always wrong",
+      "answer": "If the system clock is wrong:\n1. Right-click the clock in the taskbar and select 'Adjust date/time'.\n2. Ensure 'Set time automatically' and 'Set time zone automatically' are enabled.\n3. Click 'Sync now' to synchronize with an internet time server.\n4. If the time is still wrong after a reboot, the CMOS battery on your motherboard might be failing.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "time",
+        "clock",
+        "cmos"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Wrong-Time/td-p/78787"
+    },
+    {
+      "id": "KB-086",
+      "category": "Software",
+      "issue_code": "SW-015",
+      "question": "How to find a product key for pre-installed Windows?",
+      "answer": "For modern PCs with pre-installed Windows:\n1. The product key is embedded in the UEFI firmware of the computer.\n2. Windows should activate automatically without you needing to enter a key.\n3. If you need to retrieve it, you can use a command in PowerShell (as Admin): '(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey'\nMore info: Click here.",
+      "tags": [
+        "software",
+        "windows",
+        "product key",
+        "activation"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Windows-Product-Key/td-p/86868"
+    },
+    {
+      "id": "KB-087",
+      "category": "Printer",
+      "issue_code": "PR-023",
+      "question": "My printer is not printing from the correct paper tray",
+      "answer": "If the wrong paper tray is used:\n1. In the application's print dialog, go to 'Printer Properties'.\n2. Look for a 'Paper Source' or 'Source' setting and explicitly select the tray you want to use.\n3. Ensure the paper size and type settings for each tray are configured correctly on the printer itself.\n4. Some applications have their own paper source settings that override the driver.\nFor details: Click here.",
+      "tags": [
+        "printer",
+        "paper tray",
+        "source"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Wrong-Paper-Tray/td-p/95959"
+    },
+    {
+      "id": "KB-088",
+      "category": "Account",
+      "issue_code": "ACC-015",
+      "question": "How do I find my purchase history or receipts?",
+      "answer": "To find your purchase history:\n1. Log in to the HP account you used to make the purchase.\n2. Navigate to 'Order History', 'My Orders', or a similar section.\n3. This section should list your past purchases.\n4. You can usually view or download receipts and invoices from this page.\n5. If you checked out as a guest, refer to your order confirmation email.\nMore info: Click here.",
+      "tags": [
+        "account",
+        "order",
+        "receipt",
+        "purchase"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Purchase-History/td-p/14141"
+    },
+    {
+      "id": "KB-089",
+      "category": "Network",
+      "issue_code": "NET-017",
+      "question": "I see an 'Unidentified Network' error",
+      "answer": "To fix an 'Unidentified Network' error:\n1. Restart your computer and your router/modem.\n2. Update your network adapter driver.\n3. Run the Network Troubleshooter in Windows.\n4. Reset the TCP/IP stack using the 'netsh int ip reset' command in an admin Command Prompt.\n5. Disable any third-party firewalls or VPN clients to test.\nFor details: Click here.",
+      "tags": [
+        "network",
+        "unidentified network",
+        "ethernet",
+        "wifi"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Unidentified-Network/td-p/23232"
+    },
+    {
+      "id": "KB-090",
+      "category": "Windows",
+      "issue_code": "WIN-020",
+      "question": "How do I change my default web browser?",
+      "answer": "To change the default browser:\n1. Go to Settings > Apps > Default apps.\n2. Select the browser you want to set as the default (e.g., Chrome, Firefox).\n3. At the top of the page, click the 'Set default' button.\n4. This will set the selected browser to open common web file types and links like HTTP and HTTPS.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "default apps",
+        "browser"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Change-Default-Browser/td-p/32323"
+    },
+    {
+      "id": "KB-091",
+      "category": "Software",
+      "issue_code": "SW-016",
+      "question": "Features are grayed out in an application",
+      "answer": "If features are unavailable:\n1. Ensure the software is activated with a valid license key, if required.\n2. Check if you are using a trial or free version of the software with limited functionality.\n3. The feature might require a specific hardware component that is not present or working.\n4. You may not have the necessary permissions; try running the application as an administrator.\n5. The file you are working with may not support that feature.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "grayed out",
+        "feature",
+        "disabled"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Features-Grayed-Out/td-p/41414"
+    },
+    {
+      "id": "KB-092",
+      "category": "Printer",
+      "issue_code": "PR-024",
+      "question": "My printed pages have smudges or ink smears",
+      "answer": "To fix ink smudges:\n1. Ensure you are using the correct paper type setting in the print driver.\n2. Use high-quality paper that is not damp.\n3. The fuser (on laser printers) may be dirty or failing.\n4. An ink cartridge (on inkjet printers) may be leaking. Remove and inspect it.\n5. Run a cleaning cycle, which can sometimes help clean the internal paper path.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "smudge",
+        "smear",
+        "quality"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Ink-Smudges/td-p/50505"
+    },
+    {
+      "id": "KB-093",
+      "category": "Account",
+      "issue_code": "ACC-016",
+      "question": "The security questions for account recovery are not working",
+      "answer": "If you can't answer security questions:\n1. Double-check your answers for typos or capitalization, as they may be case-sensitive.\n2. Try to recall if you used any alternate spellings or abbreviations when you set them up.\n3. If you have another recovery method set up, like a recovery email or phone number, try using that instead.\n4. If all recovery options fail, you will need to contact HP support for identity verification.\nFor details: Click here.",
+      "tags": [
+        "account",
+        "recovery",
+        "security question"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Account-Support/Security-Question-Fail/td-p/59595"
+    },
+    {
+      "id": "KB-094",
+      "category": "Windows",
+      "issue_code": "WIN-021",
+      "question": "My keyboard is typing the wrong characters",
+      "answer": "If your keyboard is typing incorrect characters:\n1. Check the keyboard language layout in Windows settings (e.g., US vs. UK English).\n2. Press Ctrl+Shift or Alt+Shift, which are common shortcuts to cycle through keyboard layouts.\n3. Make sure the Num Lock key is not enabled, which can change how some keys on a laptop behave.\n4. Test with an external keyboard to see if the issue is with the hardware.\n5. Reinstall the keyboard driver in Device Manager.\nMore info: Click here.",
+      "tags": [
+        "windows",
+        "keyboard",
+        "language",
+        "layout"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/Keyboard-Wrong-Characters/td-p/68686"
+    },
+    {
+      "id": "KB-095",
+      "category": "Network",
+      "issue_code": "NET-018",
+      "question": "How to check my internet speed?",
+      "answer": "To check your internet speed:\n1. Use a web-based speed test service like Speedtest.net or Fast.com.\n2. For the most accurate results, use a computer connected to the router via an Ethernet cable.\n3. Close all other applications and browser tabs that might be using the internet.\n4. Run the test multiple times at different times of the day to get an average.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "speed test",
+        "internet",
+        "bandwidth"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Check-Internet-Speed/td-p/77777"
+    },
+    {
+      "id": "KB-096",
+      "category": "Software",
+      "issue_code": "SW-017",
+      "question": "I am getting pop-up ads from HP software",
+      "answer": "To manage HP pop-ups:\n1. Some HP software, like HP Support Assistant, may show notifications about updates or offers.\n2. Open the settings within the specific HP application and look for notification or marketing preferences.\n3. You can disable promotional notifications there.\n4. If the pop-ups seem like malware, run a full scan with a reputable antivirus program.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "popup",
+        "ads",
+        "notification"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Disable-Popups/td-p/85858"
+    },
+    {
+      "id": "KB-097",
+      "category": "Printer",
+      "issue_code": "PR-025",
+      "question": "A firmware update for my printer failed",
+      "answer": "If a firmware update fails:\n1. Do not turn off the printer. Wait to see if it recovers on its own.\n2. If it is unresponsive, try power cycling it.\n3. Try to re-apply the firmware update using a USB connection instead of Wi-Fi for better stability.\n4. Download the latest firmware file directly from the HP support site.\n5. If the printer is in an error state, it may require a special recovery mode or service.\nMore info: Click here.",
+      "tags": [
+        "printer",
+        "firmware",
+        "update",
+        "fail"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Firmware-Update-Fail/td-p/94949"
+    },
+    {
+      "id": "KB-098",
+      "category": "Windows",
+      "issue_code": "WIN-022",
+      "question": "File Explorer is slow or not responding",
+      "answer": "To fix a slow File Explorer:\n1. Restart the Windows Explorer process from the Task Manager.\n2. In File Explorer Options, change 'Open File Explorer to' from 'Quick access' to 'This PC'.\n3. Clear the Quick access history.\n4. Run SFC and DISM scans to repair system files.\n5. Check for and disable problematic third-party shell extensions.\nFor details: Click here.",
+      "tags": [
+        "windows",
+        "file explorer",
+        "slow",
+        "crash"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Windows-11-Drivers/File-Explorer-Slow/td-p/13131"
+    },
+    {
+      "id": "KB-099",
+      "category": "Network",
+      "issue_code": "NET-019",
+      "question": "How to set up a static IP address in Windows?",
+      "answer": "To set a static IP:\n1. Go to Settings > Network & internet. Select your connection (Ethernet or Wi-Fi) and go to properties.\n2. Under 'IP assignment', click 'Edit'.\n3. Change the setting from 'Automatic (DHCP)' to 'Manual'.\n4. Turn on IPv4.\n5. Enter the desired IP address, Subnet mask, Gateway, and DNS server addresses.\n6. Click Save.\nMore info: Click here.",
+      "tags": [
+        "network",
+        "ip address",
+        "static ip",
+        "windows"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Network-Support/Static-IP-Setup/td-p/22222"
+    },
+    {
+      "id": "KB-100",
+      "category": "Software",
+      "issue_code": "SW-018",
+      "question": "A configuration file is corrupt",
+      "answer": "If a config file is corrupt:\n1. Many applications will regenerate a default config file if you delete or rename the old one.\n2. Look in the application's installation folder or in %AppData% for the configuration file.\n3. Before deleting, make a backup of the corrupt file.\n4. If this does not work, repairing or reinstalling the application will restore the default configuration files.\nFor details: Click here.",
+      "tags": [
+        "software",
+        "config",
+        "corrupt",
+        "error"
+      ],
+      "source_url": "https://h30434.www3.hp.com/t5/Software-FAQ/Corrupt-Config/td-p/31313"
+    }
+],
+    "guide":[
+    {
+      "id": "GUIDE-011",
+      "category": "Printer",
+      "issue_code": "PR-002",
+      "issue": "Printer prints blank pages",
       "diagnostic_questions": [
-        "Is the laptop plugged in?",
-        "Is the battery charged?",
-        "Do any lights turn on?"
+        "Are the ink/toner levels sufficient?",
+        "Have the protective seals been removed from the cartridges?",
+        "Was a cleaning cycle performed?"
       ],
       "troubleshooting_steps": [
-        "Ensure power adapter connected",
-        "Remove battery and reconnect",
-        "Hard reset by holding power 10 sec",
-        "Power on again"
+        "Check ink/toner levels via software or display",
+        "Ensure cartridges are correctly installed and unsealed",
+        "Run the printer's head cleaning utility",
+        "Print a nozzle check or test page"
       ],
       "quick_fixes": [
-        "Replace faulty power adapter",
-        "Test with known-good battery"
+        "Replace empty cartridges",
+        "Gently shake the toner cartridge"
       ],
-      "escalation_criteria": "Escalate to Level 2 if laptop still does not power on",
+      "escalation_criteria": "Escalate if cleaning cycles do not resolve the issue",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Cartridge type",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Blank-Pages/td-p/44567"
+      ]
+    },
+
+    {
+      "id": "GUIDE-012",
+      "category": "Hardware",
+      "issue_code": "HW-003",
+      "issue": "Laptop is overheating",
+      "diagnostic_questions": [
+        "Is the fan running constantly or loudly?",
+        "Are the air vents blocked?",
+        "Is the laptop on a soft surface like a bed?"
+      ],
+      "troubleshooting_steps": [
+        "Ensure air vents are clear of dust and debris",
+        "Place the laptop on a hard, flat surface",
+        "Update BIOS and graphics drivers",
+        "Check Task Manager for high CPU usage"
+      ],
+      "quick_fixes": [
+        "Use a cooling pad",
+        "Clean vents with compressed air"
+      ],
+      "escalation_criteria": "Escalate if laptop shuts down unexpectedly due to heat",
       "ticketing_fields": [
         "Issue summary",
         "Device model",
-        "User ID",
+        "CPU temperature readings",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Laptop-Power-Issues/td-p/10001"
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Overheating-Issues/td-p/10002"
       ]
     },
     {
-      "id": "GUIDE-002",
-      "category": "Printer",
-      "issue_code": "PR-001",
-      "issue": "Paper jam",
-      "diagnostic_questions": [
-        "Which tray shows jam?",
-        "When did it happen?",
-        "Any previous jams?"
-      ],
-      "troubleshooting_steps": [
-        "Turn off and unplug printer",
-        "Remove jammed paper",
-        "Check rollers",
-        "Power on and test print"
-      ],
-      "quick_fixes": [
-        "Clean rollers",
-        "Properly load paper"
-      ],
-      "escalation_criteria": "Escalate if repeated jams after cleaning",
-      "ticketing_fields": [
-        "Issue summary",
-        "Printer model",
-        "Tray affected",
-        "Steps attempted"
-      ],
-      "kb_links": [
-        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Paper-Jam/td-p/12345"
-      ]
-    },
-    {
-      "id": "GUIDE-003",
-      "category": "Software",
-      "issue_code": "SW-001",
-      "issue": "Application crashes on launch",
-      "diagnostic_questions": [
-        "Which app crashes?",
-        "Error messages?",
-        "When started?"
-      ],
-      "troubleshooting_steps": [
-        "Restart PC",
-        "Update app",
-        "Reinstall app",
-        "Check system updates",
-        "Disable antivirus temporarily"
-      ],
-      "quick_fixes": [
-        "Run in compatibility mode",
-        "Update graphics drivers"
-      ],
-      "escalation_criteria": "Escalate if crashes persist",
-      "ticketing_fields": [
-        "Issue summary",
-        "App name",
-        "Version",
-        "Steps attempted"
-      ],
-      "kb_links": [
-        "https://h30434.www3.hp.com/t5/Software-FAQ/App-Crash/td-p/33456"
-      ]
-    },
-    {
-      "id": "GUIDE-004",
+      "id": "GUIDE-013",
       "category": "Network",
-      "issue_code": "NET-001",
-      "issue": "VPN disconnects frequently",
+      "issue_code": "NET-003",
+      "issue": "Wi-Fi connected but no internet access",
       "diagnostic_questions": [
-        "Other internet stable?",
-        "When disconnects?",
-        "Specific server?"
+        "Do other devices on the same network have internet?",
+        "Is this happening on all websites?",
+        "Have you tried restarting the router?"
       ],
       "troubleshooting_steps": [
-        "Restart VPN client and PC",
-        "Check internet",
-        "Update VPN client",
-        "Check firewall"
+        "Restart the computer and the router/modem",
+        "Run the Windows Network Troubleshooter",
+        "Flush DNS cache using 'ipconfig /flushdns'",
+        "Update network adapter drivers"
       ],
       "quick_fixes": [
-        "Switch VPN server",
-        "Test different network"
+        "Disconnect and reconnect to the Wi-Fi network",
+        "Forget the network and add it again"
       ],
-      "escalation_criteria": "Escalate if disconnections persist",
+      "escalation_criteria": "Escalate if only one device is affected after all steps",
       "ticketing_fields": [
         "Issue summary",
-        "VPN type",
-        "User ID",
+        "Device model",
+        "Router model",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Network-Support/VPN-Troubleshooting/td-p/24680"
+        "https://h30434.www3.hp.com/t5/Network-Support/No-Internet-Access/td-p/24681"
       ]
     },
     {
-      "id": "GUIDE-005",
-      "category": "Account",
-      "issue_code": "ACC-001",
-      "issue": "Forgot HP account password",
+      "id": "GUIDE-014",
+      "category": "Software",
+      "issue_code": "SW-003",
+      "issue": "Missing .DLL file error",
       "diagnostic_questions": [
-        "Linked email?",
-        "Tried password recovery?",
-        "Two-factor enabled?"
+        "Which application shows the error?",
+        "What is the name of the missing DLL file?",
+        "When does the error appear?"
       ],
       "troubleshooting_steps": [
-        "Guide to HP account page",
-        "Click 'Forgot Password'",
-        "Enter email",
-        "Reset password",
-        "Test login"
+        "Reinstall the application that is causing the error",
+        "Run System File Checker (sfc /scannow)",
+        "Update Windows and device drivers",
+        "Install the latest Microsoft Visual C++ Redistributable"
       ],
       "quick_fixes": [
-        "Clear browser cache",
-        "Try different browser"
+        "Restart the computer",
+        "Check for application-specific updates"
       ],
-      "escalation_criteria": "Escalate if reset email not received or account locked",
+      "escalation_criteria": "Escalate if SFC scan finds unrepairable files",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name",
+        "DLL filename",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Missing-DLL-Error/td-p/33457"
+      ]
+    },
+    {
+      "id": "GUIDE-015",
+      "category": "Account",
+      "issue_code": "ACC-003",
+      "issue": "Account is locked",
+      "diagnostic_questions": [
+        "Did you have multiple failed login attempts?",
+        "Have you received an email about the lockout?",
+        "Have you tried resetting your password?"
+      ],
+      "troubleshooting_steps": [
+        "Wait for the temporary lockout period to expire (e.g., 30 minutes)",
+        "Use the 'Forgot Password' link to reset credentials",
+        "Ensure you are using the correct username/email",
+        "Check spam folder for account-related emails"
+      ],
+      "quick_fixes": [
+        "Try logging in from a different device or network"
+      ],
+      "escalation_criteria": "Escalate if account remains locked after a successful password reset",
       "ticketing_fields": [
         "Issue summary",
         "User email",
+        "Time of lockout",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Account-Support/Password-Reset/td-p/11223"
+        "https://h30434.www3.hp.com/t5/Account-Support/Account-Locked/td-p/11224"
       ]
     },
     {
-      "id": "GUIDE-006",
-      "category": "Hardware",
-      "issue_code": "HW-002",
-      "issue": "Printer not powering on",
+      "id": "GUIDE-016",
+      "category": "Peripheral",
+      "issue_code": "PER-002",
+      "issue": "External monitor not detected",
       "diagnostic_questions": [
-        "Printer plugged in?",
-        "Cables intact?",
-        "Indicator lights?"
+        "Is the monitor powered on?",
+        "Is the cable securely connected to both devices?",
+        "What type of cable are you using (HDMI, DP, USB-C)?"
       ],
       "troubleshooting_steps": [
-        "Check power outlet",
-        "Test with working outlet",
-        "Inspect adapter",
-        "Restart printer"
+        "Press Windows Key + P and select 'Extend' or 'Duplicate'",
+        "Restart the computer with the monitor connected",
+        "Update the graphics driver",
+        "Test with a different cable or port"
       ],
       "quick_fixes": [
-        "Replace adapter"
+        "Unplug and replug the monitor cable",
+        "Manually detect displays in Display Settings"
       ],
-      "escalation_criteria": "Escalate if still does not turn on",
+      "escalation_criteria": "Escalate if monitor is not detected with a known good cable and PC",
       "ticketing_fields": [
+        "Issue summary",
+        "Laptop model",
+        "Monitor model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/External-Monitor-Detection/td-p/88991"
+      ]
+    },
+    {
+      "id": "GUIDE-017",
+      "category": "Printer",
+      "issue_code": "PR-003",
+      "issue": "Printer is offline",
+      "diagnostic_questions": [
+        "Is the printer powered on and connected to the network?",
+        "Are there any error messages on the printer display?",
+        "Can you access the printer's web page via its IP address?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the printer, computer, and router",
+        "Ensure 'Use Printer Offline' is unchecked in print queue settings",
+        "Run the HP Print and Scan Doctor utility",
+        "Reinstall the printer driver"
+      ],
+      "quick_fixes": [
+        "Set the printer as the default printer",
+        "Restart the Print Spooler service"
+      ],
+      "escalation_criteria": "Escalate if printer remains offline on multiple devices",
+      "ticketing_fields": [
+        "Issue summary",
         "Printer model",
-        "Steps attempted",
-        "Outlet tested"
+        "Connection type (Wi-Fi/USB)",
+        "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Power-Issues/td-p/99887"
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Printer-Offline/td-p/56575"
       ]
     },
     {
-      "id": "GUIDE-007",
+      "id": "GUIDE-018",
+      "category": "Hardware",
+      "issue_code": "HW-004",
+      "issue": "Blue Screen of Death (BSOD)",
+      "diagnostic_questions": [
+        "What is the stop code or error message displayed?",
+        "Did you recently install new hardware or software?",
+        "Does it happen randomly or when performing a specific task?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the computer",
+        "Boot into Safe Mode to see if the issue persists",
+        "Update all system drivers, especially graphics and storage",
+        "Run Windows Memory Diagnostic tool",
+        "Run 'sfc /scannow' in an admin command prompt"
+      ],
+      "quick_fixes": [
+        "Uninstall recently added software/hardware",
+        "Use System Restore to revert to a previous state"
+      ],
+      "escalation_criteria": "Escalate if BSOD occurs in Safe Mode or prevents booting",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "BSOD stop code",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/BSOD-Troubleshooting/td-p/10003"
+      ]
+    },
+    {
+      "id": "GUIDE-019",
       "category": "Network",
-      "issue_code": "NET-002",
-      "issue": "Cannot access internal network drives",
+      "issue_code": "NET-004",
+      "issue": "Weak Wi-Fi signal",
       "diagnostic_questions": [
-        "On VPN?",
-        "Accessed before?",
-        "Error messages?"
+        "How far are you from the router?",
+        "Are there many physical obstructions (walls, floors)?",
+        "Is the signal weak on all devices?"
       ],
       "troubleshooting_steps": [
-        "Check VPN",
-        "Verify permissions",
-        "Restart PC",
-        "Test another device"
+        "Move closer to the Wi-Fi router",
+        "Restart the router",
+        "Update the network adapter driver on your device",
+        "Change the router's Wi-Fi channel"
       ],
       "quick_fixes": [
-        "Reconnect VPN",
-        "Check path"
+        "Reposition router to a central, elevated location",
+        "Remove potential sources of interference (microwaves, cordless phones)"
       ],
-      "escalation_criteria": "Escalate if access denied persists",
+      "escalation_criteria": "Escalate for consideration of a Wi-Fi extender or mesh system",
       "ticketing_fields": [
-        "User ID",
-        "Drive name",
+        "Issue summary",
+        "Device model",
+        "Router model",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Network-Support/Internal-Drives/td-p/55678"
+        "https://h30434.www3.hp.com/t5/Network-Support/Weak-WiFi-Signal/td-p/24682"
       ]
     },
     {
-      "id": "GUIDE-008",
+      "id": "GUIDE-020",
       "category": "Software",
-      "issue_code": "SW-002",
-      "issue": "OS update fails to install",
+      "issue_code": "SW-004",
+      "issue": "Software installation is stuck",
       "diagnostic_questions": [
-        "OS version?",
-        "Error code?",
-        "Disk space?"
+        "At what percentage is the installation stuck?",
+        "Are there any error messages?",
+        "Do you have enough disk space?"
       ],
       "troubleshooting_steps": [
-        "Check disk space",
-        "Restart PC",
-        "Manual download",
-        "Disable antivirus"
+        "Cancel the installation and restart the computer",
+        "Run the installer as an administrator",
+        "Temporarily disable antivirus software",
+        "Ensure all pending Windows Updates are installed"
       ],
       "quick_fixes": [
-        "Run Windows Update Troubleshooter"
+        "Free up disk space",
+        "Download a fresh copy of the installer"
       ],
-      "escalation_criteria": "Escalate if update still fails",
+      "escalation_criteria": "Escalate if installation fails with a specific error code",
       "ticketing_fields": [
+        "Issue summary",
+        "Application name",
         "OS version",
-        "Error code",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Windows-Update-FAQ/Update-Failures/td-p/66777"
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Installation-Stuck/td-p/33458"
       ]
     },
     {
-      "id": "GUIDE-009",
+      "id": "GUIDE-021",
       "category": "Account",
-      "issue_code": "ACC-002",
-      "issue": "Cannot login to HP account",
+      "issue_code": "ACC-004",
+      "issue": "Two-Factor Authentication (2FA) code not received",
       "diagnostic_questions": [
-        "Correct username/email?",
-        "Error messages?",
-        "Browser tried?"
+        "Are you checking the correct phone number or email?",
+        "Have you checked your spam/junk folder?",
+        "Is your phone's signal or network connection stable?"
       ],
       "troubleshooting_steps": [
-        "Reset password",
-        "Clear cache",
-        "Try different browser",
-        "Check verification email"
+        "Wait a few minutes and try requesting the code again",
+        "Restart your phone",
+        "Check for blocked numbers or email filters",
+        "Attempt to use a backup code if you have one saved"
       ],
       "quick_fixes": [
-        "Disable blocking browser extensions"
+        "Ensure the time on your authenticator app device is synced correctly"
       ],
-      "escalation_criteria": "Escalate if login fails after reset",
+      "escalation_criteria": "Escalate if unable to access account after trying all recovery options",
       "ticketing_fields": [
+        "Issue summary",
+        "User email/phone number",
+        "2FA method used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/2FA-Issues/td-p/11225"
+      ]
+    },
+    {
+      "id": "GUIDE-022",
+      "category": "Peripheral",
+      "issue_code": "PER-003",
+      "issue": "Webcam video quality is poor",
+      "diagnostic_questions": [
+        "Is the camera lens clean?",
+        "Is the lighting in the room sufficient?",
+        "Is the quality poor in all applications?"
+      ],
+      "troubleshooting_steps": [
+        "Clean the webcam lens with a microfiber cloth",
+        "Improve lighting conditions in the room",
+        "Update the webcam driver via Device Manager",
+        "Adjust camera settings in the application (e.g., Zoom, Teams)"
+      ],
+      "quick_fixes": [
+        "Close other applications that might be using the webcam",
+        "Restart the computer"
+      ],
+      "escalation_criteria": "Escalate if quality remains poor and appears to be a hardware fault",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Application used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Webcam-Quality/td-p/88992"
+      ]
+    },
+    {
+      "id": "GUIDE-023",
+      "category": "Printer",
+      "issue_code": "PR-004",
+      "issue": "Scanner not working",
+      "diagnostic_questions": [
+        "Is the printer/scanner powered on and connected?",
+        "Do you hear the scanner mechanism move?",
+        "Are you using the correct scanning software?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the printer and computer",
+        "Ensure the correct scanner is selected in the software",
+        "Update the printer/scanner driver",
+        "Try scanning with a different application (e.g., HP Smart, Windows Scan)"
+      ],
+      "quick_fixes": [
+        "Check the USB cable connection",
+        "Ensure the scanner lid is properly closed"
+      ],
+      "escalation_criteria": "Escalate if scanning fails with a hardware error code",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer/Scanner model",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Scanner-Not-Working/td-p/23242"
+      ]
+    },
+    {
+      "id": "GUIDE-024",
+      "category": "Hardware",
+      "issue_code": "HW-005",
+      "issue": "Laptop battery not charging",
+      "diagnostic_questions": [
+        "Is the power adapter's light on?",
+        "Is the battery icon showing 'plugged in, not charging'?",
+        "Is the battery removable?"
+      ],
+      "troubleshooting_steps": [
+        "Reseat the power adapter connection at the laptop and wall outlet",
+        "Run the HP Battery Check utility in HP Support Assistant",
+        "Uninstall and reinstall the 'Microsoft ACPI-Compliant Control Method Battery' driver",
+        "Update the system BIOS"
+      ],
+      "quick_fixes": [
+        "Try a different wall outlet",
+        "Clean the charging port and adapter tip"
+      ],
+      "escalation_criteria": "Escalate if battery fails diagnostic test or does not charge with a known good adapter",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Battery diagnostic results",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Battery-Not-Charging/td-p/10004"
+      ]
+    },
+    {
+      "id": "GUIDE-025",
+      "category": "Network",
+      "issue_code": "NET-005",
+      "issue": "IP address conflict",
+      "diagnostic_questions": [
+        "Do you see an error message about an IP conflict?",
+        "Are other devices on the network having issues?",
+        "Is this a new device on the network?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the computer experiencing the issue",
+        "Restart the Wi-Fi router",
+        "Open Command Prompt and run 'ipconfig /release' then 'ipconfig /renew'",
+        "Check for devices with a manually set (static) IP address"
+      ],
+      "quick_fixes": [
+        "Disconnect and reconnect to the network"
+      ],
+      "escalation_criteria": "Escalate if the conflict persists and affects multiple devices",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device MAC address",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/IP-Address-Conflict/td-p/24683"
+      ]
+    },
+    {
+      "id": "GUIDE-026",
+      "category": "Software",
+      "issue_code": "SW-005",
+      "issue": "Application running very slow",
+      "diagnostic_questions": [
+        "Is the entire computer slow, or just this one application?",
+        "Did this start recently?",
+        "Have you checked for application updates?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the application and the computer",
+        "Check for software updates",
+        "Clear the application's cache or temporary files",
+        "Check Task Manager for high CPU or memory usage by the app"
+      ],
+      "quick_fixes": [
+        "Close other resource-intensive programs",
+        "Repair the application via Apps & Features"
+      ],
+      "escalation_criteria": "Escalate if performance issues persist after a clean reinstall",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name and version",
+        "System specs (RAM, CPU)",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Slow-Application-Performance/td-p/33459"
+      ]
+    },
+    {
+      "id": "GUIDE-027",
+      "category": "Account",
+      "issue_code": "ACC-005",
+      "issue": "Unable to update profile information",
+      "diagnostic_questions": [
+        "What specific information are you trying to change?",
+        "Are you receiving any error messages?",
+        "Have you tried using a different browser?"
+      ],
+      "troubleshooting_steps": [
+        "Log out and log back into your account",
+        "Clear your browser's cache and cookies",
+        "Try updating the information in an incognito/private browser window",
+        "Ensure all required fields are filled correctly"
+      ],
+      "quick_fixes": [
+        "Disable browser extensions that might interfere",
+        "Try updating from a different device"
+      ],
+      "escalation_criteria": "Escalate if the issue persists across multiple browsers and devices",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Field to be updated",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Update-Profile-Error/td-p/11226"
+      ]
+    },
+    {
+      "id": "GUIDE-028",
+      "category": "Peripheral",
+      "issue_code": "PER-004",
+      "issue": "Microphone not working",
+      "diagnostic_questions": [
+        "Is it a built-in or external microphone?",
+        "Is the microphone muted (hardware or software)?",
+        "Have you checked the microphone privacy settings?"
+      ],
+      "troubleshooting_steps": [
+        "Check for a physical mute button on the device or headset",
+        "Go to Windows Sound settings and ensure the correct mic is set as default",
+        "Run the microphone troubleshooter",
+        "Update audio drivers"
+      ],
+      "quick_fixes": [
+        "Unplug and reconnect the microphone",
+        "Ensure apps have permission to access the microphone in Privacy settings"
+      ],
+      "escalation_criteria": "Escalate if the microphone is not detected in Device Manager",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Microphone type",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Microphone-Issues/td-p/88993"
+      ]
+    },
+    {
+      "id": "GUIDE-029",
+      "category": "Printer",
+      "issue_code": "PR-005",
+      "issue": "Print queue is stuck",
+      "diagnostic_questions": [
+        "How many documents are in the queue?",
+        "What is the status of the document (e.g., 'Deleting', 'Printing')?",
+        "Have you tried restarting the printer?"
+      ],
+      "troubleshooting_steps": [
+        "Open the print queue, right-click the document, and select 'Cancel'",
+        "If it won't cancel, go to Services and restart the 'Print Spooler' service",
+        "Restart the computer",
+        "As a last resort, manually clear files from C:\\Windows\\System32\\spool\\PRINTERS"
+      ],
+      "quick_fixes": [
+        "Power cycle the printer",
+        "Right-click the queue and select 'Cancel All Documents'"
+      ],
+      "escalation_criteria": "Escalate if the Print Spooler service fails to start or stop",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "OS version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Stuck-Queue/td-p/44568"
+      ]
+    },
+    {
+      "id": "GUIDE-030",
+      "category": "Hardware",
+      "issue_code": "HW-006",
+      "issue": "Laptop speakers not working",
+      "diagnostic_questions": [
+        "Is the volume muted or set to zero?",
+        "Does audio work with headphones?",
+        "Is the correct playback device selected?"
+      ],
+      "troubleshooting_steps": [
+        "Check volume levels and ensure the device is not muted",
+        "Right-click the speaker icon, go to Sound settings, and check the default output device",
+        "Run the Windows Audio Troubleshooter",
+        "Update or reinstall the audio driver from Device Manager"
+      ],
+      "quick_fixes": [
+        "Plug in headphones and then unplug them",
+        "Restart the 'Windows Audio' service"
+      ],
+      "escalation_criteria": "Escalate if audio fails with headphones as well, suggesting a driver or board issue",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Headphone test result",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/No-Sound-From-Speakers/td-p/10005"
+      ]
+    },
+    {
+      "id": "GUIDE-031",
+      "category": "Network",
+      "issue_code": "NET-006",
+      "issue": "Bluetooth device won't connect or pair",
+      "diagnostic_questions": [
+        "Is Bluetooth enabled on both devices?",
+        "Is the peripheral device in pairing mode?",
+        "Are the devices within range of each other?"
+      ],
+      "troubleshooting_steps": [
+        "Turn Bluetooth off and on again on your computer",
+        "Remove the device from your computer's list of Bluetooth devices and try to re-pair",
+        "Update the Bluetooth driver",
+        "Run the Bluetooth troubleshooter in Windows"
+      ],
+      "quick_fixes": [
+        "Restart both the computer and the peripheral",
+        "Ensure the peripheral's battery is charged"
+      ],
+      "escalation_criteria": "Escalate if the PC cannot discover any Bluetooth devices at all",
+      "ticketing_fields": [
+        "Issue summary",
+        "PC model",
+        "Peripheral model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Bluetooth-Pairing-Issues/td-p/24684"
+      ]
+    },
+    {
+      "id": "GUIDE-032",
+      "category": "Software",
+      "issue_code": "SW-006",
+      "issue": "Unable to uninstall a program",
+      "diagnostic_questions": [
+        "What happens when you try to uninstall it from Apps & Features?",
+        "Do you receive an error message?",
+        "Is the program currently running?"
+      ],
+      "troubleshooting_steps": [
+        "Ensure the program and all related processes are closed in Task Manager",
+        "Restart the computer and try again",
+        "Use the program's dedicated uninstaller tool if available",
+        "Try uninstalling in Safe Mode"
+      ],
+      "quick_fixes": [
+        "Repair the program first, then try to uninstall"
+      ],
+      "escalation_criteria": "Escalate to use advanced removal tools if standard methods fail",
+      "ticketing_fields": [
+        "Issue summary",
+        "Program name",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Uninstall-Issues/td-p/33460"
+      ]
+    },
+    {
+      "id": "GUIDE-033",
+      "category": "Account",
+      "issue_code": "ACC-006",
+      "issue": "Product registration fails",
+      "diagnostic_questions": [
+        "Are you entering the correct serial and product numbers?",
+        "Are you on the official HP registration page?",
+        "Do you see a specific error message?"
+      ],
+      "troubleshooting_steps": [
+        "Double-check the product and serial numbers for typos",
+        "Use HP Support Assistant to auto-detect and register your product",
+        "Clear your browser cache and try again",
+        "Try using a different web browser"
+      ],
+      "quick_fixes": [
+        "Ensure there are no leading/trailing spaces in the input fields"
+      ],
+      "escalation_criteria": "Escalate if the website reports the serial number as invalid or already registered",
+      "ticketing_fields": [
+        "Issue summary",
+        "Product model",
+        "Serial number",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Product-Registration-Fail/td-p/11227"
+      ]
+    },
+    {
+      "id": "GUIDE-034",
+      "category": "Peripheral",
+      "issue_code": "PER-005",
+      "issue": "Wireless mouse is lagging or stuttering",
+      "diagnostic_questions": [
+        "Have you replaced the batteries recently?",
+        "Is the USB receiver connected directly to the PC?",
+        "Is the mouse being used on a reflective surface?"
+      ],
+      "troubleshooting_steps": [
+        "Replace the batteries with a fresh pair",
+        "Move the USB receiver to a different port, preferably a front one",
+        "Use the mouse on a non-reflective mouse pad",
+        "Re-pair the mouse with its receiver using connection utility software"
+      ],
+      "quick_fixes": [
+        "Remove other wireless devices that may cause interference",
+        "Clean the mouse sensor"
+      ],
+      "escalation_criteria": "Escalate if the issue persists when tested on another computer",
+      "ticketing_fields": [
+        "Issue summary",
+        "Mouse model",
+        "Surface used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Wireless-Mouse-Lag/td-p/88994"
+      ]
+    },
+    {
+      "id": "GUIDE-035",
+      "category": "Printer",
+      "issue_code": "PR-006",
+      "issue": "Prints have streaks or lines",
+      "diagnostic_questions": [
+        "Are the lines vertical or horizontal?",
+        "Are they happening with all colors?",
+        "When was the last time the cartridges were replaced?"
+      ],
+      "troubleshooting_steps": [
+        "Run the print head cleaning utility multiple times",
+        "Perform a print head alignment",
+        "Check ink/toner levels and replace if low",
+        "Ensure you are using the correct paper type setting"
+      ],
+      "quick_fixes": [
+        "Gently wipe the print head (inkjet) or inspect the drum (laser)",
+        "Use genuine HP cartridges"
+      ],
+      "escalation_criteria": "Escalate if print quality issues persist after cleaning and with new cartridges",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Scan of poor print quality",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Print-Quality-Streaks/td-p/77891"
+      ]
+    },
+    {
+      "id": "GUIDE-036",
+      "category": "Hardware",
+      "issue_code": "HW-007",
+      "issue": "Laptop fan is constantly noisy",
+      "diagnostic_questions": [
+        "Is the laptop performing intensive tasks (gaming, video editing)?",
+        "Are the air vents clean?",
+        "Did this noise start suddenly?"
+      ],
+      "troubleshooting_steps": [
+        "Check Task Manager for processes with high CPU usage and close them",
+        "Clean the air vents with compressed air",
+        "Update the BIOS, as updates can improve fan control",
+        "Use HP Command Center to change the thermal profile to 'Quiet'"
+      ],
+      "quick_fixes": [
+        "Restart the laptop",
+        "Elevate the laptop to improve airflow"
+      ],
+      "escalation_criteria": "Escalate if the fan makes grinding or clicking noises, indicating mechanical failure",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "High CPU processes",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Noisy-Fan/td-p/10006"
+      ]
+    },
+    {
+      "id": "GUIDE-037",
+      "category": "Network",
+      "issue_code": "NET-007",
+      "issue": "'DNS server not responding' error",
+      "diagnostic_questions": [
+        "Can you access websites by typing their IP address?",
+        "Does this happen on all devices on the network?",
+        "Have you restarted your router?"
+      ],
+      "troubleshooting_steps": [
+        "Flush the DNS cache ('ipconfig /flushdns')",
+        "Restart the router and computer",
+        "Change your DNS servers to a public one (e.g., Google 8.8.8.8, Cloudflare 1.1.1.1)",
+        "Temporarily disable firewall and antivirus software to test"
+      ],
+      "quick_fixes": [
+        "Try a different web browser",
+        "Connect using an Ethernet cable instead of Wi-Fi"
+      ],
+      "escalation_criteria": "Escalate if changing DNS servers does not resolve the issue for a single user",
+      "ticketing_fields": [
+        "Issue summary",
+        "OS version",
+        "Current DNS settings",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/DNS-Error/td-p/24685"
+      ]
+    },
+    {
+      "id": "GUIDE-038",
+      "category": "Software",
+      "issue_code": "SW-007",
+      "issue": "License key not working",
+      "diagnostic_questions": [
+        "Are you entering the key exactly as provided?",
+        "Is the software the correct version for the key?",
+        "Do you have an active internet connection?"
+      ],
+      "troubleshooting_steps": [
+        "Copy and paste the license key to avoid typos",
+        "Ensure there are no extra spaces before or after the key",
+        "Run the activation troubleshooter if available",
+        "Try activating the software as an administrator"
+      ],
+      "quick_fixes": [
+        "Check your purchase confirmation email for the correct key",
+        "Restart the application"
+      ],
+      "escalation_criteria": "Escalate if activation server reports the key as invalid or expired",
+      "ticketing_fields": [
+        "Issue summary",
+        "Software name and version",
+        "License key",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Activation-Issues/td-p/33461"
+      ]
+    },
+    {
+      "id": "GUIDE-039",
+      "category": "Account",
+      "issue_code": "ACC-007",
+      "issue": "Cannot find purchase history",
+      "diagnostic_questions": [
+        "Are you logged into the correct HP account?",
+        "Did you possibly check out as a guest?",
+        "When was the purchase made?"
+      ],
+      "troubleshooting_steps": [
+        "Navigate to the 'Order History' or 'My Account' section of the HP store",
+        "Search your email inboxes for an order confirmation email from HP",
+        "Try logging in with any other email addresses you may have used",
+        "Check your credit card statement for transaction details"
+      ],
+      "quick_fixes": [
+        "Clear browser cache and log in again"
+      ],
+      "escalation_criteria": "Escalate with proof of purchase if order is still not visible in the account",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Approximate date of purchase",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Order-History/td-p/11228"
+      ]
+    },
+    {
+      "id": "GUIDE-040",
+      "category": "Peripheral",
+      "issue_code": "PER-006",
+      "issue": "External hard drive not recognized",
+      "diagnostic_questions": [
+        "Does the drive's light turn on?",
+        "Do you feel or hear the drive spinning up?",
+        "Does it appear in Disk Management?"
+      ],
+      "troubleshooting_steps": [
+        "Connect the drive to a different USB port",
+        "Try a different USB cable",
+        "Check if the drive appears in Disk Management and assign it a drive letter if needed",
+        "Update USB controller drivers in Device Manager"
+      ],
+      "quick_fixes": [
+        "Connect the drive directly to the computer, not through a hub",
+        "Restart the computer"
+      ],
+      "escalation_criteria": "Escalate if the drive is not detected in the BIOS or on multiple computers",
+      "ticketing_fields": [
+        "Issue summary",
+        "Drive model",
+        "PC model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/External-Drive-Detection/td-p/88995"
+      ]
+    },
+    {
+      "id": "GUIDE-041",
+      "category": "Printer",
+      "issue_code": "PR-007",
+      "issue": "Cannot connect printer to Wi-Fi",
+      "diagnostic_questions": [
+        "Is the printer's Wi-Fi light on or blinking?",
+        "Do you know the correct Wi-Fi password?",
+        "Is the printer within range of the router?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the printer and router",
+        "Use the Wireless Setup Wizard on the printer's control panel",
+        "Temporarily move the printer closer to the router for setup",
+        "Ensure you are connecting to the 2.4 GHz network band if the printer requires it"
+      ],
+      "quick_fixes": [
+        "Use Wi-Fi Protected Setup (WPS) button if your router supports it",
+        "Print a network configuration report to check status"
+      ],
+      "escalation_criteria": "Escalate if printer fails to connect after manually entering network details",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Router model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/WiFi-Setup/td-p/67890"
+      ]
+    },
+    {
+      "id": "GUIDE-042",
+      "category": "Hardware",
+      "issue_code": "HW-008",
+      "issue": "Touchpad is unresponsive",
+      "diagnostic_questions": [
+        "Is there a light in the corner of the touchpad that is on?",
+        "Does an external mouse work?",
+        "Did you recently clean the laptop?"
+      ],
+      "troubleshooting_steps": [
+        "Check for a function key (e.g., F7) or a double-tap area on the touchpad to enable it",
+        "Restart the computer",
+        "Update or reinstall the touchpad driver from Device Manager or HP's website",
+        "Check touchpad settings in Windows to ensure it is enabled"
+      ],
+      "quick_fixes": [
+        "Ensure hands are clean and dry",
+        "Disconnect any connected external mice"
+      ],
+      "escalation_criteria": "Escalate if the touchpad is not listed in Device Manager or BIOS",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Driver version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Touchpad-Issues/td-p/10007"
+      ]
+    },
+    {
+      "id": "GUIDE-043",
+      "category": "Network",
+      "issue_code": "NET-008",
+      "issue": "Ethernet connection not working",
+      "diagnostic_questions": [
+        "Are the link lights on the Ethernet port lit or blinking?",
+        "Is the cable securely connected at both ends?",
+        "Does the cable work with another device?"
+      ],
+      "troubleshooting_steps": [
+        "Try a different Ethernet cable",
+        "Try a different port on the router",
+        "Restart the computer and the router",
+        "Update the Ethernet adapter driver in Device Manager"
+      ],
+      "quick_fixes": [
+        "Ensure the network adapter is enabled in Network Connections",
+        "Run the network troubleshooter"
+      ],
+      "escalation_criteria": "Escalate if link lights do not turn on, indicating a possible hardware issue",
+      "ticketing_fields": [
+        "Issue summary",
+        "PC model",
+        "Cable test results",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Ethernet-Connection-Fail/td-p/24686"
+      ]
+    },
+    {
+      "id": "GUIDE-044",
+      "category": "Software",
+      "issue_code": "SW-008",
+      "issue": "HP Support Assistant not working",
+      "diagnostic_questions": [
+        "Does the application open at all?",
+        "Does it fail to scan for updates?",
+        "Are you getting a specific error message?"
+      ],
+      "troubleshooting_steps": [
+        "Ensure you have the latest version of HP Support Assistant",
+        "Restart the computer",
+        "Clear the application's cache files",
+        "Uninstall and reinstall HP Support Assistant from the official HP website"
+      ],
+      "quick_fixes": [
+        "Check your internet connection",
+        "Run the program as an administrator"
+      ],
+      "escalation_criteria": "Escalate if a clean reinstall does not fix the core issue",
+      "ticketing_fields": [
+        "Issue summary",
+        "HPSA version",
+        "OS version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/HPSA-Issues/td-p/33462"
+      ]
+    },
+    {
+      "id": "GUIDE-045",
+      "category": "Account",
+      "issue_code": "ACC-008",
+      "issue": "Password reset link not received",
+      "diagnostic_questions": [
+        "Did you check your spam or junk mail folder?",
+        "Is the email address you entered correct and active?",
+        "How long has it been since you requested the link?"
+      ],
+      "troubleshooting_steps": [
+        "Wait at least 15 minutes for the email to arrive",
+        "Add HP's domain to your email safe senders list",
+        "Request the password reset link again, checking for typos",
+        "Try the process in a different browser or incognito window"
+      ],
+      "quick_fixes": [
+        "Check all folders/tabs in your inbox (e.g., Promotions, Social)"
+      ],
+      "escalation_criteria": "Escalate if the user has no other recovery options and is sure the email is correct",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Time of request",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Password-Reset-Email/td-p/11229"
+      ]
+    },
+    {
+      "id": "GUIDE-046",
+      "category": "Peripheral",
+      "issue_code": "PER-007",
+      "issue": "Docking station ports not working",
+      "diagnostic_questions": [
+        "Is the docking station receiving power?",
+        "Is the correct cable being used to connect to the laptop?",
+        "Do some ports work but not others?"
+      ],
+      "troubleshooting_steps": [
+        "Power cycle the docking station by unplugging it for 30 seconds",
+        "Update the docking station's firmware",
+        "Update the laptop's BIOS, Thunderbolt, and USB drivers",
+        "Reconnect the docking station to the laptop"
+      ],
+      "quick_fixes": [
+        "Restart the laptop",
+        "Try connecting peripherals one by one to isolate the issue"
+      ],
+      "escalation_criteria": "Escalate if the dock is not detected at all or fails on a compatible, tested laptop",
+      "ticketing_fields": [
+        "Issue summary",
+        "Laptop model",
+        "Dock model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Docking-Station-Ports/td-p/88996"
+      ]
+    },
+    {
+      "id": "GUIDE-047",
+      "category": "Printer",
+      "issue_code": "PR-008",
+      "issue": "Wrong colors are printing",
+      "diagnostic_questions": [
+        "Is one specific color missing or incorrect?",
+        "Are you using genuine HP ink/toner?",
+        "Have you run a nozzle check or print quality report?"
+      ],
+      "troubleshooting_steps": [
+        "Run the print head cleaning utility",
+        "Check the print quality report to identify the problematic color",
+        "Ensure the correct color cartridges are in the correct slots",
+        "Check the color management settings in the print driver"
+      ],
+      "quick_fixes": [
+        "Replace the problematic ink cartridge",
+        "Ensure you are not printing in grayscale mode"
+      ],
+      "escalation_criteria": "Escalate if the issue persists with a brand new set of cartridges",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Scan of print quality report",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Wrong-Colors/td-p/76767"
+      ]
+    },
+    {
+      "id": "GUIDE-048",
+      "category": "Hardware",
+      "issue_code": "HW-009",
+      "issue": "Some keys on the keyboard are not working",
+      "diagnostic_questions": [
+        "Is it a single key or a group of keys?",
+        "Was there any liquid spilled on the keyboard?",
+        "Does an external keyboard work correctly?"
+      ],
+      "troubleshooting_steps": [
+        "Clean the keyboard with compressed air",
+        "Restart the computer",
+        "Check for language or layout settings that may have been changed",
+        "Uninstall and reinstall the keyboard driver in Device Manager"
+      ],
+      "quick_fixes": [
+        "Check if Sticky Keys or Filter Keys are enabled in Accessibility settings"
+      ],
+      "escalation_criteria": "Escalate for hardware repair if an external keyboard works and driver reinstall fails",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Specific keys affected",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Keyboard-Key-Issues/td-p/10008"
+      ]
+    },
+    {
+      "id": "GUIDE-049",
+      "category": "Network",
+      "issue_code": "NET-009",
+      "issue": "Slow internet speeds",
+      "diagnostic_questions": [
+        "Are speeds slow on all devices?",
+        "Is it slow on a wired or wireless connection?",
+        "What speed are you getting from a speed test website?"
+      ],
+      "troubleshooting_steps": [
+        "Restart your modem, router, and computer",
+        "Run a speed test connected directly to the modem via Ethernet",
+        "Check for other devices on the network using bandwidth (streaming, downloading)",
+        "Scan your computer for malware"
+      ],
+      "quick_fixes": [
+        "Move closer to the Wi-Fi router",
+        "Disconnect unused devices from the network"
+      ],
+      "escalation_criteria": "Escalate to the Internet Service Provider (ISP) if speeds are slow when directly connected to the modem",
+      "ticketing_fields": [
+        "Issue summary",
+        "Speed test results (wired/wireless)",
+        "ISP name",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Slow-Internet-Speed/td-p/24687"
+      ]
+    },
+    {
+      "id": "GUIDE-050",
+      "category": "Software",
+      "issue_code": "SW-009",
+      "issue": "Program settings are not saving",
+      "diagnostic_questions": [
+        "Does this happen with all settings or just specific ones?",
+        "Do the settings reset after closing the app or restarting the PC?",
+        "Are you running the program as a standard user?"
+      ],
+      "troubleshooting_steps": [
+        "Run the program as an administrator",
+        "Check if the program's configuration files are set to 'Read-only'",
+        "Temporarily disable antivirus software that may be preventing file writes",
+        "Reinstall the program"
+      ],
+      "quick_fixes": [
+        "Ensure you are closing the application properly, not forcing it to quit"
+      ],
+      "escalation_criteria": "Escalate if permission issues persist after a clean reinstall",
+      "ticketing_fields": [
+        "Issue summary",
+        "Program name",
+        "User account type",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Settings-Not-Saving/td-p/33463"
+      ]
+    },
+    {
+      "id": "GUIDE-051",
+      "category": "Account",
+      "issue_code": "ACC-009",
+      "issue": "Suspected unauthorized account access",
+      "diagnostic_questions": [
+        "Have you noticed any strange activity in your account?",
+        "Did you receive any unexpected security notifications?",
+        "Do you reuse your password on other websites?"
+      ],
+      "troubleshooting_steps": [
+        "Immediately change your account password to a strong, unique one",
+        "Enable Two-Factor Authentication (2FA) if it's not already on",
+        "Review your account's recent login history and activity",
+        "Log out of all active sessions"
+      ],
+      "quick_fixes": [
+        "Run a malware scan on your computer"
+      ],
+      "escalation_criteria": "Escalate to report unauthorized activity or if you are locked out of the account",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Description of suspicious activity",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Unauthorized-Access/td-p/11230"
+      ]
+    },
+    {
+      "id": "GUIDE-052",
+      "category": "Peripheral",
+      "issue_code": "PER-008",
+      "issue": "SD card reader not working",
+      "diagnostic_questions": [
+        "Have you tried a different SD card?",
+        "Does the SD card work in another device?",
+        "Does the card reader show up in Device Manager?"
+      ],
+      "troubleshooting_steps": [
+        "Re-insert the SD card firmly",
+        "Restart the computer with the card inserted",
+        "Update or reinstall the card reader driver from Device Manager",
+        "Use Disk Management to check if the card is visible and has a drive letter"
+      ],
+      "quick_fixes": [
+        "Gently clean the SD card's metal contacts",
+        "Check for a physical lock switch on the side of the SD card"
+      ],
+      "escalation_criteria": "Escalate if the card reader hardware is not detected in Device Manager",
+      "ticketing_fields": [
+        "Issue summary",
+        "PC model",
+        "SD card brand/size",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/SD-Card-Reader-Fail/td-p/88997"
+      ]
+    },
+    {
+      "id": "GUIDE-053",
+      "category": "Printer",
+      "issue_code": "PR-009",
+      "issue": "Duplex (two-sided) printing not working",
+      "diagnostic_questions": [
+        "Does your printer model support automatic duplexing?",
+        "Is the option for two-sided printing selected in the print dialog?",
+        "Are you using a compatible paper type and size?"
+      ],
+      "troubleshooting_steps": [
+        "Verify printer specifications for automatic duplex support",
+        "In print settings, go to 'Properties' and enable 'Print on Both Sides'",
+        "Update the printer driver",
+        "Ensure the duplexing unit (if removable) is correctly installed"
+      ],
+      "quick_fixes": [
+        "Restart the printer and the application you are printing from"
+      ],
+      "escalation_criteria": "Escalate if the option is grayed out or the feature fails mechanically",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Application name",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Duplex-Printing-Fail/td-p/34343"
+      ]
+    },
+    {
+      "id": "GUIDE-054",
+      "category": "Hardware",
+      "issue_code": "HW-010",
+      "issue": "USB ports not working",
+      "diagnostic_questions": [
+        "Have you tried multiple USB devices?",
+        "Do all USB ports fail, or just one?",
+        "Does the device work in another computer's USB port?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the computer",
+        "Go to Device Manager, uninstall all 'USB Root Hub' and 'Host Controller' entries, then restart",
+        "Check BIOS/UEFI settings to ensure USB ports are enabled",
+        "Inspect the ports for physical damage or debris"
+      ],
+      "quick_fixes": [
+        "Try a self-powered USB device vs. one that draws power from the port"
+      ],
+      "escalation_criteria": "Escalate if ports show physical damage or fail after a driver reinstall",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Which ports are affected",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/USB-Port-Issues/td-p/10009"
+      ]
+    },
+    {
+      "id": "GUIDE-055",
+      "category": "Network",
+      "issue_code": "NET-010",
+      "issue": "Firewall is blocking an application",
+      "diagnostic_questions": [
+        "Does the application work when the firewall is temporarily disabled?",
+        "Are you using the Windows Firewall or a third-party one?",
+        "Did the application previously work?"
+      ],
+      "troubleshooting_steps": [
+        "Open Windows Defender Firewall and select 'Allow an app or feature...'",
+        "Find the application in the list and check the boxes for 'Private' and 'Public' networks",
+        "If not in the list, manually add the application's executable file",
+        "Check for conflicting rules in third-party antivirus software"
+      ],
+      "quick_fixes": [
+        "Restart the computer after changing firewall settings"
+      ],
+      "escalation_criteria": "Escalate if creating an explicit 'allow' rule does not work",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name",
+        "Firewall software used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Firewall-Block/td-p/72727"
+      ]
+    },
+    {
+      "id": "GUIDE-056",
+      "category": "Software",
+      "issue_code": "SW-010",
+      "issue": "High CPU usage from a software process",
+      "diagnostic_questions": [
+        "Which process is using high CPU in Task Manager?",
+        "Does it happen constantly or only during specific tasks?",
+        "Is the software up to date?"
+      ],
+      "troubleshooting_steps": [
+        "Restart the computer",
+        "Update the application causing the high usage",
+        "Run a malware scan",
+        "Reinstall the application",
+        "Check for known issues on the software developer's support site"
+      ],
+      "quick_fixes": [
+        "End the process in Task Manager and see if it restarts normally"
+      ],
+      "escalation_criteria": "Escalate if high CPU usage makes the system unusable",
+      "ticketing_fields": [
+        "Issue summary",
+        "Process name",
+        "CPU percentage",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/High-CPU-Usage/td-p/54545"
+      ]
+    },
+    {
+      "id": "GUIDE-057",
+      "category": "Account",
+      "issue_code": "ACC-010",
+      "issue": "'Email already in use' error during signup",
+      "diagnostic_questions": [
+        "Is it possible you already have an account with that email?",
+        "Did you try the 'Forgot Password' link on the login page?",
+        "Have you checked for typos in the email address?"
+      ],
+      "troubleshooting_steps": [
+        "Attempt to log in with the email address",
+        "Use the password recovery feature to see if an account exists",
+        "Try signing up with a different email address to confirm the system is working",
+        "Try using a social login (Google, Apple) if you may have used that before"
+      ],
+      "quick_fixes": [
+        "Clear browser cache before trying again"
+      ],
+      "escalation_criteria": "Escalate if user is certain they have no account but the email is blocked",
+      "ticketing_fields": [
+        "Issue summary",
         "User email",
         "Browser used",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Account-Support/Login-Issues/td-p/77890"
+        "https://h30434.www3.hp.com/t5/Account-Support/Email-In-Use/td-p/43434"
       ]
     },
     {
-      "id": "GUIDE-010",
+      "id": "GUIDE-058",
       "category": "Peripheral",
-      "issue_code": "PER-001",
-      "issue": "Mouse or keyboard not detected",
+      "issue_code": "PER-009",
+      "issue": "Keyboard backlight not working",
       "diagnostic_questions": [
-        "Wired or wireless?",
-        "Connected port?",
-        "Error messages?"
+        "Does your laptop model support a backlit keyboard?",
+        "Have you tried pressing the dedicated backlight key (often F4, F5, or Fn+Space)?",
+        "Did the backlight work previously?"
       ],
       "troubleshooting_steps": [
-        "Reconnect device",
-        "Restart PC",
-        "Update drivers",
-        "Test on another PC"
+        "Press the backlight key multiple times to cycle through brightness levels",
+        "Check the BIOS/UEFI for a setting related to keyboard backlight",
+        "Update the BIOS and keyboard drivers from the HP support website",
+        "Run the HP Hardware Diagnostics tool"
       ],
       "quick_fixes": [
-        "Replace batteries/wire",
-        "Try different cable"
+        "Restart the computer"
       ],
-      "escalation_criteria": "Escalate if device not detected on multiple systems",
+      "escalation_criteria": "Escalate if BIOS/diagnostics tests fail or show no option for the backlight",
       "ticketing_fields": [
-        "Device type",
-        "Port tested",
+        "Issue summary",
+        "Device model",
+        "BIOS version",
         "Steps attempted"
       ],
       "kb_links": [
-        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Mouse-Keyboard-Detection/td-p/88990"
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Keyboard-Backlight/td-p/88998"
+      ]
+    },
+    {
+      "id": "GUIDE-059",
+      "category": "Printer",
+      "issue_code": "PR-010",
+      "issue": "Automatic Document Feeder (ADF) is jamming",
+      "diagnostic_questions": [
+        "Are the papers loaded correctly?",
+        "Are you using paper that is wrinkled, torn, or too thick?",
+        "Have the ADF rollers been cleaned?"
+      ],
+      "troubleshooting_steps": [
+        "Remove all paper and clear any visible jams",
+        "Do not overload the ADF tray",
+        "Clean the ADF rollers and separator pad with a lint-free cloth",
+        "Ensure the paper guides are snug against the paper stack"
+      ],
+      "quick_fixes": [
+        "Fan the stack of paper before loading",
+        "Use fresh, flat paper"
+      ],
+      "escalation_criteria": "Escalate if the ADF jams with a single sheet of standard paper",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Paper type used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/ADF-Jam/td-p/15151"
+      ]
+    },
+    {
+      "id": "GUIDE-060",
+      "category": "Hardware",
+      "issue_code": "HW-011",
+      "issue": "Screen is flickering",
+      "diagnostic_questions": [
+        "Does the flickering happen constantly or intermittently?",
+        "Does it flicker in the BIOS/UEFI menu?",
+        "Does it stop if you move the laptop lid?"
+      ],
+      "troubleshooting_steps": [
+        "Update the graphics driver",
+        "Check if flickering occurs in Task Manager (if it doesn't, it's likely an app issue)",
+        "Boot into BIOS to check for hardware issue (if it flickers here, it's hardware)",
+        "Connect to an external monitor to see if the issue is replicated"
+      ],
+      "quick_fixes": [
+        "Change the screen refresh rate in Display Settings",
+        "Disable hardware acceleration in apps like web browsers"
+      ],
+      "escalation_criteria": "Escalate if flickering occurs in BIOS or is related to lid movement",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "BIOS test result",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Screen-Flicker/td-p/10010"
+      ]
+    },
+    {
+      "id": "GUIDE-061",
+      "category": "Network",
+      "issue_code": "NET-011",
+      "issue": "Intermittent connection drops",
+      "diagnostic_questions": [
+        "How often does the connection drop?",
+        "Does it happen to all devices on the network simultaneously?",
+        "Are you far from the router?"
+      ],
+      "troubleshooting_steps": [
+        "Restart router and computer",
+        "Update network adapter driver and router firmware",
+        "Change the Wi-Fi channel on your router to avoid interference",
+        "Disable power-saving features for the network adapter in Device Manager"
+      ],
+      "quick_fixes": [
+        "Move closer to the router",
+        "Switch to a wired Ethernet connection to test stability"
+      ],
+      "escalation_criteria": "Escalate to ISP if drops happen on the wired connection as well",
+      "ticketing_fields": [
+        "Issue summary",
+        "Frequency of drops",
+        "Router model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Intermittent-Drops/td-p/64646"
+      ]
+    },
+    {
+      "id": "GUIDE-062",
+      "category": "Software",
+      "issue_code": "SW-011",
+      "issue": "Compatibility issues with new OS",
+      "diagnostic_questions": [
+        "Which application is having issues?",
+        "What specific problems are you seeing (crashes, errors)?",
+        "Have you checked the developer's website for an updated version?"
+      ],
+      "troubleshooting_steps": [
+        "Check the developer's site for a compatible version or patch",
+        "Run the Program Compatibility Troubleshooter",
+        "Try running the program in compatibility mode for a previous OS version",
+        "Reinstall the application"
+      ],
+      "quick_fixes": [
+        "Run the program as an administrator"
+      ],
+      "escalation_criteria": "Escalate if the software is business-critical and has no compatible version",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name",
+        "OS version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/OS-Compatibility/td-p/79797"
+      ]
+    },
+    {
+      "id": "GUIDE-063",
+      "category": "Account",
+      "issue_code": "ACC-011",
+      "issue": "Incorrect warranty status shown",
+      "diagnostic_questions": [
+        "What is the start/end date shown for the warranty?",
+        "Do you have a proof of purchase (receipt, invoice)?",
+        "Was the product purchased new or refurbished?"
+      ],
+      "troubleshooting_steps": [
+        "Verify the product and serial number are correct in your account",
+        "Use the HP Warranty Check website for a direct lookup",
+        "Gather your proof of purchase document",
+        "Contact HP support to submit a warranty dispute"
+      ],
+      "quick_fixes": [
+        "Allow 24-48 hours for system updates after product registration"
+      ],
+      "escalation_criteria": "This issue is a direct escalation to the warranty support team",
+      "ticketing_fields": [
+        "Issue summary",
+        "Serial number",
+        "Proof of purchase",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Warranty-Dispute/td-p/11231"
+      ]
+    },
+    {
+      "id": "GUIDE-064",
+      "category": "Peripheral",
+      "issue_code": "PER-010",
+      "issue": "Bluetooth headset audio is choppy",
+      "diagnostic_questions": [
+        "Is the headset's battery fully charged?",
+        "How far are you from the computer?",
+        "Are there other wireless devices nearby?"
+      ],
+      "troubleshooting_steps": [
+        "Move closer to the computer",
+        "Turn off other nearby Bluetooth or 2.4 GHz devices",
+        "Remove the headset from your device list and re-pair it",
+        "In Sound settings, ensure the headset is set as both the output and input device"
+      ],
+      "quick_fixes": [
+        "Disable any audio enhancement effects",
+        "Restart the headset and the computer"
+      ],
+      "escalation_criteria": "Escalate if the audio is choppy when tested with a different host device (e.g., a smartphone)",
+      "ticketing_fields": [
+        "Issue summary",
+        "Headset model",
+        "PC model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Bluetooth-Audio-Choppy/td-p/88999"
+      ]
+    },
+    {
+      "id": "GUIDE-065",
+      "category": "Printer",
+      "issue_code": "PR-011",
+      "issue": "Error code on printer display",
+      "diagnostic_questions": [
+        "What is the exact error code or message?",
+        "Does the error prevent all printer functions?",
+        "Have you tried restarting the printer?"
+      ],
+      "troubleshooting_steps": [
+        "Power cycle the printer by unplugging it for 60 seconds",
+        "Search for the specific error code on the HP support website",
+        "Check for obvious issues like paper jams, open doors, or low ink",
+        "Update the printer's firmware"
+      ],
+      "quick_fixes": [
+        "Reseat all ink/toner cartridges"
+      ],
+      "escalation_criteria": "Escalate if the error code indicates a hardware failure (e.g., fuser error, scanner failure)",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Error code",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Error-Codes/td-p/89808"
+      ]
+    },
+    {
+      "id": "GUIDE-066",
+      "category": "Hardware",
+      "issue_code": "HW-012",
+      "issue": "Slow boot-up time",
+      "diagnostic_questions": [
+        "How long does it take to get to the login screen?",
+        "Have you recently installed new software?",
+        "How much free space is on your primary (C:) drive?"
+      ],
+      "troubleshooting_steps": [
+        "Open Task Manager and disable unnecessary startup programs",
+        "Run Disk Cleanup to remove temporary files",
+        "Update Windows and all system drivers",
+        "Check the health of your hard drive/SSD using HP PC Hardware Diagnostics"
+      ],
+      "quick_fixes": [
+        "Ensure Fast Startup is enabled in Power Options"
+      ],
+      "escalation_criteria": "Escalate if a diagnostic scan indicates a failing storage drive",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Boot time",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Slow-Boot/td-p/10011"
+      ]
+    },
+    {
+      "id": "GUIDE-067",
+      "category": "Network",
+      "issue_code": "NET-012",
+      "issue": "'Unidentified Network' error",
+      "diagnostic_questions": [
+        "Is this happening on a wired or wireless connection?",
+        "Have you tried restarting your router?",
+        "Do you get a valid IP address when you run 'ipconfig'?"
+      ],
+      "troubleshooting_steps": [
+        "Run the Network Troubleshooter",
+        "Reset the TCP/IP stack using 'netsh int ip reset'",
+        "Update the network adapter driver",
+        "Restart the computer and network equipment"
+      ],
+      "quick_fixes": [
+        "Disable and re-enable the network adapter in Network Connections"
+      ],
+      "escalation_criteria": "Escalate if the device fails to get a valid IP address from the DHCP server",
+      "ticketing_fields": [
+        "Issue summary",
+        "Connection type",
+        "ipconfig output",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Unidentified-Network/td-p/23232"
+      ]
+    },
+    {
+      "id": "GUIDE-068",
+      "category": "Software",
+      "issue_code": "SW-012",
+      "issue": "Default program settings keep resetting",
+      "diagnostic_questions": [
+        "Which file type or protocol is affected (e.g., .pdf, web browser)?",
+        "Does it reset after a restart or randomly?",
+        "Are there multiple programs installed that can handle the same file type?"
+      ],
+      "troubleshooting_steps": [
+        "Go to Settings > Apps > Default apps and set your preferences again",
+        "Check for updates for both Windows and the application you want as default",
+        "Some updates (especially for browsers or Adobe) can prompt to reset defaults",
+        "Run 'sfc /scannow' to check for system file corruption"
+      ],
+      "quick_fixes": [
+        "Right-click a file, choose 'Open with' > 'Choose another app', and check 'Always use this app'"
+      ],
+      "escalation_criteria": "Escalate if defaults reset immediately, which could indicate a user profile issue",
+      "ticketing_fields": [
+        "Issue summary",
+        "File type affected",
+        "Desired default program",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Default-Apps-Reset/td-p/32323"
+      ]
+    },
+    {
+      "id": "GUIDE-069",
+      "category": "Account",
+      "issue_code": "ACC-012",
+      "issue": "How to delete an HP account",
+      "diagnostic_questions": [
+        "Are you sure you want to permanently delete the account?",
+        "Have you backed up any data associated with it?",
+        "Do you have any active subscriptions (e.g., Instant Ink)?"
+      ],
+      "troubleshooting_steps": [
+        "Guide user to cancel any active subscriptions first",
+        "Log in to the HP account",
+        "Navigate to the account settings or privacy dashboard",
+        "Find the option for 'Delete Account' or 'Close Account'",
+        "Follow the on-screen prompts for verification and confirmation"
+      ],
+      "quick_fixes": [
+        "Advise that deletion is permanent and cannot be undone"
+      ],
+      "escalation_criteria": "Escalate if the delete option is missing or results in an error",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Confirmation of intent",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Delete-Account/td-p/54545"
+      ]
+    },
+    {
+      "id": "GUIDE-070",
+      "category": "Peripheral",
+      "issue_code": "PER-011",
+      "issue": "Stylus pen is not responsive",
+      "diagnostic_questions": [
+        "Is the pen's battery charged or new?",
+        "Is your laptop model compatible with an active stylus?",
+        "Have you tried re-pairing the pen via Bluetooth (if applicable)?"
+      ],
+      "troubleshooting_steps": [
+        "Replace the battery in the stylus",
+        "Restart the computer",
+        "Re-pair the pen in the Bluetooth settings",
+        "Reinstall the pen drivers or HP Pen Control software",
+        "Run the touch screen diagnostics in HP PC Hardware Diagnostics"
+      ],
+      "quick_fixes": [
+        "Unscrew and reseat the battery",
+        "Check if the pen tip is worn out or damaged"
+      ],
+      "escalation_criteria": "Escalate if the pen is unresponsive after all steps and the touch screen works with a finger",
+      "ticketing_fields": [
+        "Issue summary",
+        "Laptop model",
+        "Stylus model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Stylus-Pen-Issues/td-p/89000"
+      ]
+    },
+    {
+      "id": "GUIDE-071",
+      "category": "Printer",
+      "issue_code": "PR-012",
+      "issue": "Ink smudges on printed pages",
+      "diagnostic_questions": [
+        "Is the smudging in a specific location on the page?",
+        "Are you using a compatible paper type?",
+        "Is the ink cartridge leaking?"
+      ],
+      "troubleshooting_steps": [
+        "Run the printer's cleaning cycle utility",
+        "Check paper type settings in the print driver to match the loaded paper",
+        "Remove the cartridges and check for any leaks or damage",
+        "Clean the printer's internal rollers with a lint-free cloth"
+      ],
+      "quick_fixes": [
+        "Allow printed pages to dry before handling",
+        "Use genuine HP ink and paper"
+      ],
+      "escalation_criteria": "Escalate if smudging continues with new, genuine cartridges",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Scan of smudged page",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Ink-Smudges/td-p/50505"
+      ]
+    },
+    {
+      "id": "GUIDE-072",
+      "category": "Hardware",
+      "issue_code": "HW-013",
+      "issue": "Laptop won't shut down properly",
+      "diagnostic_questions": [
+        "Does it hang on the 'Shutting down' screen?",
+        "Do the lights and fan stay on after the screen goes black?",
+        "Does this happen every time?"
+      ],
+      "troubleshooting_steps": [
+        "Hold the power button for 10 seconds to force a shutdown",
+        "Disable Fast Startup in the Power Options settings",
+        "Update the BIOS and Intel Management Engine Interface (MEI) driver",
+        "Run the Power troubleshooter in Windows"
+      ],
+      "quick_fixes": [
+        "Close all open applications before shutting down",
+        "Unplug all external peripherals"
+      ],
+      "escalation_criteria": "Escalate if the issue persists after disabling Fast Startup and updating drivers",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Fast Startup status",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Shutdown-Issues/td-p/10012"
+      ]
+    },
+    {
+      "id": "GUIDE-073",
+      "category": "Network",
+      "issue_code": "NET-013",
+      "issue": "Cannot see other devices on network",
+      "diagnostic_questions": [
+        "Is your network profile set to 'Private'?",
+        "Are all devices on the same Wi-Fi network or subnet?",
+        "Is Network Discovery turned on?"
+      ],
+      "troubleshooting_steps": [
+        "Change network profile from Public to Private",
+        "Go to 'Advanced sharing settings' and ensure Network Discovery is enabled",
+        "Ensure the 'Function Discovery' services are running in 'services.msc'",
+        "Temporarily disable the firewall to see if it is blocking discovery"
+      ],
+      "quick_fixes": [
+        "Restart all computers and the router"
+      ],
+      "escalation_criteria": "Escalate if settings are correct but devices still do not appear",
+      "ticketing_fields": [
+        "Issue summary",
+        "OS version",
+        "Network profile type",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Network-Discovery-Fail/td-p/24242"
+      ]
+    },
+    {
+      "id": "GUIDE-074",
+      "category": "Software",
+      "issue_code": "SW-013",
+      "issue": "Antivirus is blocking a trusted program",
+      "diagnostic_questions": [
+        "What is the name of the antivirus software?",
+        "What notification or warning are you seeing?",
+        "Are you certain the program is safe?"
+      ],
+      "troubleshooting_steps": [
+        "Open the antivirus software's control panel",
+        "Navigate to the quarantine or threat detection area",
+        "Find the detected file or program and choose to 'Restore' or 'Allow'",
+        "Add the program or its installation folder to the antivirus exclusion list"
+      ],
+      "quick_fixes": [
+        "Submit the file to the antivirus vendor as a potential false positive"
+      ],
+      "escalation_criteria": "Escalate if allowing the program does not resolve the issue, as the block might be at a network level",
+      "ticketing_fields": [
+        "Issue summary",
+        "Antivirus name",
+        "Program being blocked",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Antivirus-Block/td-p/33464"
+      ]
+    },
+    {
+      "id": "GUIDE-075",
+      "category": "Account",
+      "issue_code": "ACC-013",
+      "issue": "Cannot change account email address",
+      "diagnostic_questions": [
+        "Are you getting an error that the new email is already in use?",
+        "Do you have access to the old email address to verify the change?",
+        "Is the 'Save' button grayed out?"
+      ],
+      "troubleshooting_steps": [
+        "Log out and log back in",
+        "Ensure the new email address is entered correctly in both fields",
+        "Check the new email address's inbox (and spam) for a verification link",
+        "Try the process in a different web browser"
+      ],
+      "quick_fixes": [
+        "Clear browser cache and cookies"
+      ],
+      "escalation_criteria": "Escalate if the user has lost access to the original email and cannot verify the change",
+      "ticketing_fields": [
+        "Issue summary",
+        "Old email address",
+        "New email address",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Change-Email-Fail/td-p/11232"
+      ]
+    },
+    {
+      "id": "GUIDE-076",
+      "category": "Peripheral",
+      "issue_code": "PER-012",
+      "issue": "Fingerprint scanner not working",
+      "diagnostic_questions": [
+        "Does it fail to recognize your finger, or is the option missing from login?",
+        "Did it work previously?",
+        "Have you tried re-registering your fingerprint?"
+      ],
+      "troubleshooting_steps": [
+        "Clean the fingerprint scanner with a dry cloth",
+        "Go to Sign-in options and remove your existing fingerprint, then add it again",
+        "Update the biometric device driver in Device Manager",
+        "Ensure Windows Hello is configured correctly"
+      ],
+      "quick_fixes": [
+        "Restart the computer",
+        "Ensure your finger is clean and dry"
+      ],
+      "escalation_criteria": "Escalate if the biometric device shows an error or is missing in Device Manager",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Driver status",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Fingerprint-Scanner-Fail/td-p/89001"
+      ]
+    },
+    {
+      "id": "GUIDE-077",
+      "category": "Printer",
+      "issue_code": "PR-013",
+      "issue": "Cannot print from mobile device",
+      "diagnostic_questions": [
+        "Is the mobile device on the same Wi-Fi network as the printer?",
+        "Is the printer AirPrint (iOS) or Mopria (Android) compatible?",
+        "Do you have the HP Smart app installed?"
+      ],
+      "troubleshooting_steps": [
+        "Ensure Wi-Fi is enabled on the mobile device",
+        "Restart the printer, mobile device, and router",
+        "Install and use the HP Smart app to print",
+        "Ensure the printer's firmware is up to date"
+      ],
+      "quick_fixes": [
+        "Bring the mobile device closer to the printer and router"
+      ],
+      "escalation_criteria": "Escalate if the printer is not discoverable by any mobile device",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Mobile device OS",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Mobile-Printing-Fail/td-p/19191"
+      ]
+    },
+    {
+      "id": "GUIDE-078",
+      "category": "Hardware",
+      "issue_code": "HW-014",
+      "issue": "Webcam not detected",
+      "diagnostic_questions": [
+        "Is there a physical privacy shutter covering the lens?",
+        "Is there a keyboard key to enable/disable the camera?",
+        "Does the webcam appear in Device Manager?"
+      ],
+      "troubleshooting_steps": [
+        "Check for a physical shutter or kill switch",
+        "Check Windows Privacy settings to ensure apps have camera access",
+        "In Device Manager, scan for hardware changes",
+        "Uninstall the camera driver and restart the computer to let Windows reinstall it"
+      ],
+      "quick_fixes": [
+        "Restart the computer",
+        "Try using the camera in a different application"
+      ],
+      "escalation_criteria": "Escalate if the webcam is not listed in Device Manager, indicating a connection or hardware failure",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Device Manager status",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Webcam-Not-Detected/td-p/67686"
+      ]
+    },
+    {
+      "id": "GUIDE-079",
+      "category": "Network",
+      "issue_code": "NET-014",
+      "issue": "Mobile hotspot not working",
+      "diagnostic_questions": [
+        "Is your computer connected to the internet (via Ethernet or another Wi-Fi)?",
+        "Can other devices see the hotspot network?",
+        "Do they get an error when trying to connect?"
+      ],
+      "troubleshooting_steps": [
+        "Toggle the mobile hotspot setting off and on",
+        "Restart the computer",
+        "Update the Wi-Fi adapter driver",
+        "Run the Network Adapter troubleshooter"
+      ],
+      "quick_fixes": [
+        "Change the hotspot's network band between 2.4 GHz and 5 GHz"
+      ],
+      "escalation_criteria": "Escalate if the mobile hotspot feature cannot be enabled at all (grayed out)",
+      "ticketing_fields": [
+        "Issue summary",
+        "OS version",
+        "Wi-Fi driver version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Mobile-Hotspot-Fail/td-p/97979"
+      ]
+    },
+    {
+      "id": "GUIDE-080",
+      "category": "Software",
+      "issue_code": "SW-014",
+      "issue": "Cannot open specific file types",
+      "diagnostic_questions": [
+        "What is the file extension (e.g., .docx, .jpg)?",
+        "Do you have a program installed that can open this file type?",
+        "Does the issue happen with all files of this type, or just one?"
+      ],
+      "troubleshooting_steps": [
+        "Right-click the file, select 'Open with', and choose the correct program",
+        "Install a program capable of opening the file",
+        "Go to Settings > Apps > Default apps to set the association",
+        "Reinstall the program that should be opening the file"
+      ],
+      "quick_fixes": [
+        "Try opening a different file of the same type to check for file corruption"
+      ],
+      "escalation_criteria": "Escalate if file associations are corrupt and cannot be fixed by standard methods",
+      "ticketing_fields": [
+        "Issue summary",
+        "File extension",
+        "Associated program",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/File-Association-Error/td-p/33465"
+      ]
+    },
+    {
+      "id": "GUIDE-081",
+      "category": "Account",
+      "issue_code": "ACC-014",
+      "issue": "Unable to update payment method",
+      "diagnostic_questions": [
+        "Are you entering the card details correctly?",
+        "Is the card expired?",
+        "Are you getting a specific error from the payment processor?"
+      ],
+      "troubleshooting_steps": [
+        "Re-enter all payment information carefully",
+        "Try a different credit card",
+        "Clear browser cache or use a different browser",
+        "Contact your bank to ensure there are no blocks on the card"
+      ],
+      "quick_fixes": [
+        "Disable any ad-blockers or script-blockers on the payment page"
+      ],
+      "escalation_criteria": "Escalate if multiple valid cards from different banks are being rejected",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Payment-Update-Fail/td-p/63636"
+      ]
+    },
+    {
+      "id": "GUIDE-082",
+      "category": "Peripheral",
+      "issue_code": "PER-013",
+      "issue": "Projector display is distorted or wrong color",
+      "diagnostic_questions": [
+        "Is the cable connecting the PC and projector securely plugged in?",
+        "Have you tried a different cable?",
+        "Is the projector's lens clean and in focus?"
+      ],
+      "troubleshooting_steps": [
+        "Reseat the video cable at both ends",
+        "Try a different HDMI or VGA cable",
+        "Press the 'Auto-Adjust' or 'Sync' button on the projector remote",
+        "Check the color and display settings on both the PC and the projector menu"
+      ],
+      "quick_fixes": [
+        "Restart the PC and the projector",
+        "Check for a 'keystone' setting to fix a trapezoidal image"
+      ],
+      "escalation_criteria": "Escalate if the distortion appears on the projector's own menu, indicating a hardware fault",
+      "ticketing_fields": [
+        "Issue summary",
+        "PC model",
+        "Projector model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Projector-Display-Issues/td-p/89002"
+      ]
+    },
+    {
+      "id": "GUIDE-083",
+      "category": "Printer",
+      "issue_code": "PR-014",
+      "issue": "Printer not recognized after Windows update",
+      "diagnostic_questions": [
+        "Does the printer appear in 'Printers & scanners'?",
+        "Is there an error icon next to it in Device Manager?",
+        "Did you try restarting the PC after the update?"
+      ],
+      "troubleshooting_steps": [
+        "Disconnect and reconnect the printer's USB cable",
+        "Go to 'Printers & scanners', remove the printer, and then add it again",
+        "Run the printer troubleshooter",
+        "Go to the HP support site and download the latest driver for your Windows version"
+      ],
+      "quick_fixes": [
+        "Restart the Print Spooler service"
+      ],
+      "escalation_criteria": "Escalate if the latest official driver fails to install or recognize the printer",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Windows update KB number",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Not-Recognized-After-Update/td-p/55555"
+      ]
+    },
+    {
+      "id": "GUIDE-084",
+      "category": "Hardware",
+      "issue_code": "HW-015",
+      "issue": "Distorted or garbled display",
+      "diagnostic_questions": [
+        "Does the distortion appear on the startup (HP logo) screen?",
+        "Is the screen distorted in the same way on an external monitor?",
+        "Did the laptop suffer a drop or impact?"
+      ],
+      "troubleshooting_steps": [
+        "Connect to an external monitor. If the external display is fine, the issue is the laptop's screen or cable",
+        "Update the graphics drivers",
+        "Boot into the BIOS/UEFI. If distortion is present here, it is a hardware failure",
+        "Gently press on the screen bezel to see if it affects the distortion"
+      ],
+      "quick_fixes": [
+        "Restart the computer",
+        "Adjust the screen resolution"
+      ],
+      "escalation_criteria": "Escalate for hardware repair if distortion is present in BIOS or on the internal screen only",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "External monitor test result",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Distorted-Display/td-p/10013"
+      ]
+    },
+    {
+      "id": "GUIDE-085",
+      "category": "Network",
+      "issue_code": "NET-015",
+      "issue": "Can't connect to a specific website",
+      "diagnostic_questions": [
+        "Can you access other websites?",
+        "Have you tried accessing the site on a different device or network (e.g., your phone)?",
+        "What error message do you see in the browser?"
+      ],
+      "troubleshooting_steps": [
+        "Clear the browser's cache, cookies, and history",
+        "Try a different web browser",
+        "Flush your computer's DNS cache ('ipconfig /flushdns')",
+        "Temporarily disable any VPN or proxy services"
+      ],
+      "quick_fixes": [
+        "Check if the website is down for everyone using a service like down.com"
+      ],
+      "escalation_criteria": "Escalate if the site is accessible on other networks but not the user's, even after troubleshooting",
+      "ticketing_fields": [
+        "Issue summary",
+        "Website URL",
+        "Browser used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Website-Access-Issue/td-p/88901"
+      ]
+    },
+    {
+      "id": "GUIDE-086",
+      "category": "Software",
+      "issue_code": "SW-015",
+      "issue": "A configuration file is corrupt",
+      "diagnostic_questions": [
+        "Which application is showing the error?",
+        "Does the error prevent the application from starting?",
+        "Have you tried repairing the application?"
+      ],
+      "troubleshooting_steps": [
+        "Try repairing the application through 'Apps & features'",
+        "Locate the application's configuration files (often in %AppData%) and rename or delete them to force regeneration",
+        "Uninstall and then cleanly reinstall the application",
+        "Restore the file from a backup if available"
+      ],
+      "quick_fixes": [
+        "Restart the computer"
+      ],
+      "escalation_criteria": "Escalate if a clean reinstall does not fix the corrupt configuration",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Corrupt-Config/td-p/31313"
+      ]
+    },
+    {
+      "id": "GUIDE-087",
+      "category": "Account",
+      "issue_code": "ACC-015",
+      "issue": "Security questions not working for recovery",
+      "diagnostic_questions": [
+        "Are you certain of the answers?",
+        "Are you considering case sensitivity or spacing?",
+        "Is there another recovery option available (e.g., email, phone)?"
+      ],
+      "troubleshooting_steps": [
+        "Carefully re-enter the answers, paying attention to spelling and case",
+        "Try to use an alternate account recovery method if offered",
+        "Clear browser cache and try the recovery process again",
+        "Wait a few hours before trying again to avoid a temporary lockout"
+      ],
+      "quick_fixes": [
+        "Think about how you might have abbreviated the answer when you set it up"
+      ],
+      "escalation_criteria": "Escalate to identity verification support if this is the only recovery method and it fails",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Recovery methods available",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Security-Question-Fail/td-p/59595"
+      ]
+    },
+    {
+      "id": "GUIDE-088",
+      "category": "Peripheral",
+      "issue_code": "PER-014",
+      "issue": "External DVD drive not reading discs",
+      "diagnostic_questions": [
+        "Does the drive spin up when you insert a disc?",
+        "Have you tried multiple discs (e.g., a movie DVD, a software CD)?",
+        "Is the drive visible in 'This PC'?"
+      ],
+      "troubleshooting_steps": [
+        "Try a different disc known to be good",
+        "Clean the disc with a soft cloth",
+        "Connect the drive to a different USB port",
+        "In Device Manager, uninstall the DVD/CD-ROM drive and restart the PC"
+      ],
+      "quick_fixes": [
+        "Ensure the drive has adequate power; some require a Y-cable for two USB ports"
+      ],
+      "escalation_criteria": "Escalate if the drive fails to read any disc on multiple computers",
+      "ticketing_fields": [
+        "Issue summary",
+        "Drive model",
+        "PC model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/DVD-Drive-Read-Error/td-p/89003"
+      ]
+    },
+    {
+      "id": "GUIDE-089",
+      "category": "Printer",
+      "issue_code": "PR-015",
+      "issue": "Cartridge not recognized",
+      "diagnostic_questions": [
+        "Is it a genuine HP cartridge or a third-party one?",
+        "Did you remove all the protective plastic and tape?",
+        "Is this a brand new cartridge?"
+      ],
+      "troubleshooting_steps": [
+        "Remove and firmly reseat the cartridge",
+        "Power cycle the printer",
+        "Clean the electrical contacts on the cartridge and inside the printer with a dry cloth",
+        "Check that the cartridge model is compatible with the printer model"
+      ],
+      "quick_fixes": [
+        "Update the printer's firmware, especially if using new cartridges"
+      ],
+      "escalation_criteria": "Escalate if a new, genuine, and compatible cartridge is not recognized",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Cartridge model number",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Cartridge-Not-Recognized/td-p/90909"
+      ]
+    },
+    {
+      "id": "GUIDE-090",
+      "category": "Hardware",
+      "issue_code": "HW-016",
+      "issue": "CMOS or BIOS checksum error on boot",
+      "diagnostic_questions": [
+        "Does the computer's date and time keep resetting?",
+        "Does this error appear every time you boot from a cold start?",
+        "Have you recently changed any hardware?"
+      ],
+      "troubleshooting_steps": [
+        "Enter the BIOS/UEFI setup when prompted",
+        "Load default settings, save, and exit",
+        "If the error persists, the CMOS battery on the motherboard likely needs replacement",
+        "Update the BIOS to the latest version"
+      ],
+      "quick_fixes": [
+        "Correct the date and time in the BIOS and save"
+      ],
+      "escalation_criteria": "Escalate for hardware service to replace the CMOS battery",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Exact error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/CMOS-Checksum-Error/td-p/10014"
+      ]
+    },
+    {
+      "id": "GUIDE-091",
+      "category": "Network",
+      "issue_code": "NET-016",
+      "issue": "Unable to renew DHCP lease",
+      "diagnostic_questions": [
+        "Are you getting an APIPA address (169.254.x.x)?",
+        "Does this happen on wired or wireless connections?",
+        "Do other devices on the network connect successfully?"
+      ],
+      "troubleshooting_steps": [
+        "Run 'ipconfig /release' and 'ipconfig /renew' in an admin Command Prompt",
+        "Restart the computer and the router",
+        "Reset the network stack with 'netsh winsock reset' and 'netsh int ip reset'",
+        "Update the network adapter driver"
+      ],
+      "quick_fixes": [
+        "Temporarily set a static IP address to see if connectivity is restored"
+      ],
+      "escalation_criteria": "Escalate if only one machine cannot get a lease from the DHCP server (router)",
+      "ticketing_fields": [
+        "Issue summary",
+        "ipconfig output",
+        "Router model",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/DHCP-Lease-Fail/td-p/24688"
+      ]
+    },
+    {
+      "id": "GUIDE-092",
+      "category": "Software",
+      "issue_code": "SW-016",
+      "issue": "OMEN Gaming Hub won't open",
+      "diagnostic_questions": [
+        "Do you see the process running in Task Manager?",
+        "Did it work previously?",
+        "Have you tried restarting the PC?"
+      ],
+      "troubleshooting_steps": [
+        "End all OMEN Gaming Hub processes in Task Manager",
+        "Go to Apps & Features, find the app, and use the 'Repair' and 'Reset' options",
+        "Uninstall and reinstall the app from the Microsoft Store",
+        "Ensure all related HP services and SDKs are up to date"
+      ],
+      "quick_fixes": [
+        "Run the Windows Store Apps troubleshooter"
+      ],
+      "escalation_criteria": "Escalate if a clean reinstall does not resolve the launch failure",
+      "ticketing_fields": [
+        "Issue summary",
+        "PC model",
+        "App version",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/OMEN-Gaming-Hub-Fail/td-p/33333"
+      ]
+    },
+    {
+      "id": "GUIDE-093",
+      "category": "Account",
+      "issue_code": "ACC-016",
+      "issue": "Cannot merge two HP accounts",
+      "diagnostic_questions": [
+        "Why do you need to merge the accounts?",
+        "What data do you need to consolidate (e.g., product registrations)?",
+        "Do you have access to both email addresses?"
+      ],
+      "troubleshooting_steps": [
+        "Explain that HP does not offer an automatic account merging feature",
+        "Advise user to choose one primary account to use going forward",
+        "Manually re-register any products from the secondary account to the primary one",
+        "Guide user on how to delete the secondary account after consolidation"
+      ],
+      "quick_fixes": [
+        "Update contact preferences on the secondary account to stop emails"
+      ],
+      "escalation_criteria": "This is a policy/feature limitation; escalate only if a critical subscription is on the wrong account",
+      "ticketing_fields": [
+        "Issue summary",
+        "Primary email",
+        "Secondary email",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Merge-Accounts/td-p/11233"
+      ]
+    },
+    {
+      "id": "GUIDE-094",
+      "category": "Peripheral",
+      "issue_code": "PER-015",
+      "issue": "Drawing tablet has no pressure sensitivity",
+      "diagnostic_questions": [
+        "Is the tablet driver installed?",
+        "Does the issue occur in all applications (e.g., Photoshop, Krita)?",
+        "Have you checked the pen tip for wear?"
+      ],
+      "troubleshooting_steps": [
+        "Reinstall the latest driver from the tablet manufacturer's website",
+        "Restart the computer after installation",
+        "Open the tablet's settings utility and test the pressure sensitivity there",
+        "Ensure the application you are using is configured to use pen pressure"
+      ],
+      "quick_fixes": [
+        "Unplug and reconnect the tablet",
+        "Replace the pen nib"
+      ],
+      "escalation_criteria": "Escalate if pressure test fails within the manufacturer's own software utility",
+      "ticketing_fields": [
+        "Issue summary",
+        "Tablet model",
+        "Application used",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/Tablet-Pressure-Sensitivity/td-p/89004"
+      ]
+    },
+    {
+      "id": "GUIDE-095",
+      "category": "Printer",
+      "issue_code": "PR-016",
+      "issue": "Loud noises during printing",
+      "diagnostic_questions": [
+        "What kind of noise is it (grinding, clicking, squealing)?",
+        "Does it happen throughout the print job or at a specific point?",
+        "Have you checked for any foreign objects inside?"
+      ],
+      "troubleshooting_steps": [
+        "Turn off the printer and open all covers",
+        "Carefully inspect the paper path for jammed paper or foreign objects",
+        "Remove and reseat the toner/ink cartridges",
+        "Check for any broken plastic parts or gears"
+      ],
+      "quick_fixes": [
+        "Place the printer on a stable, level surface"
+      ],
+      "escalation_criteria": "Escalate for hardware service if a grinding or clicking noise persists, indicating mechanical failure",
+      "ticketing_fields": [
+        "Issue summary",
+        "Printer model",
+        "Description of noise",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/Loud-Noises/td-p/82828"
+      ]
+    },
+    {
+      "id": "GUIDE-096",
+      "category": "Hardware",
+      "issue_code": "HW-017",
+      "issue": "Black screen with cursor after login",
+      "diagnostic_questions": [
+        "Can you open Task Manager (Ctrl+Shift+Esc)?",
+        "Did this happen after a recent update?",
+        "Does it happen in Safe Mode?"
+      ],
+      "troubleshooting_steps": [
+        "Press Ctrl+Shift+Esc to open Task Manager",
+        "Go to File > Run new task, type 'explorer.exe', and press Enter",
+        "If explorer starts, disable non-essential startup programs",
+        "Boot into Safe Mode. If the issue doesn't occur, a third-party driver is likely the cause",
+        "Update your graphics driver"
+      ],
+      "quick_fixes": [
+        "Use System Restore to go back to a point before the issue started"
+      ],
+      "escalation_criteria": "Escalate if explorer.exe fails to launch or the issue occurs in Safe Mode",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Safe Mode result",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Notebook-Hardware-Troubleshooting/Black-Screen-Cursor/td-p/71717"
+      ]
+    },
+    {
+      "id": "GUIDE-097",
+      "category": "Network",
+      "issue_code": "NET-017",
+      "issue": "Cannot connect to corporate network remotely",
+      "diagnostic_questions": [
+        "Are you using the correct VPN client and server address?",
+        "Is your home internet connection stable?",
+        "Are you entering your credentials correctly?"
+      ],
+      "troubleshooting_steps": [
+        "Ensure the VPN client software is up to date",
+        "Restart your computer and your home router",
+        "Temporarily disable your local firewall to check for conflicts",
+        "Verify the VPN server address and your login credentials"
+      ],
+      "quick_fixes": [
+        "Try connecting from a different network (e.g., mobile hotspot) to isolate the issue"
+      ],
+      "escalation_criteria": "Escalate to internal IT/network team if credentials and settings are confirmed correct",
+      "ticketing_fields": [
+        "Issue summary",
+        "VPN client name",
+        "Error message",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Network-Support/Corporate-VPN-Connect-Fail/td-p/24689"
+      ]
+    },
+    {
+      "id": "GUIDE-098",
+      "category": "Software",
+      "issue_code": "SW-017",
+      "issue": "Program features are grayed out",
+      "diagnostic_questions": [
+        "Are you using a trial or free version of the software?",
+        "Is the software properly activated with a license?",
+        "Does the feature require a specific file type to be open?"
+      ],
+      "troubleshooting_steps": [
+        "Verify that the software license is active",
+        "Run the program as an administrator",
+        "Check the program's documentation to see the requirements for the feature",
+        "Repair or reinstall the application"
+      ],
+      "quick_fixes": [
+        "Ensure you have a document open that supports the feature"
+      ],
+      "escalation_criteria": "Escalate if features are grayed out in a fully licensed, correctly used application",
+      "ticketing_fields": [
+        "Issue summary",
+        "Application name",
+        "License status",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Software-FAQ/Features-Grayed-Out/td-p/41414"
+      ]
+    },
+    {
+      "id": "GUIDE-099",
+      "category": "Account",
+      "issue_code": "ACC-017",
+      "issue": "Phishing email concern",
+      "diagnostic_questions": [
+        "Did the email ask for your password or personal information?",
+        "Does the sender's email address look suspicious?",
+        "Does hovering over links reveal a strange URL?"
+      ],
+      "troubleshooting_steps": [
+        "Advise user not to click any links or download attachments",
+        "Verify the sender's email address (should be from an official hp.com domain)",
+        "Guide user to delete the email immediately",
+        "Recommend changing their account password if they are concerned"
+      ],
+      "quick_fixes": [
+        "Mark the email as spam or phishing in the email client"
+      ],
+      "escalation_criteria": "Escalate to security team if user has already entered credentials on a suspicious site",
+      "ticketing_fields": [
+        "Issue summary",
+        "User email",
+        "Sender of suspicious email",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Account-Support/Phishing-Email-Report/td-p/18181"
+      ]
+    },
+    {
+      "id": "GUIDE-100",
+      "category": "Peripheral",
+      "issue_code": "PER-016",
+      "issue": "System time keeps resetting",
+      "diagnostic_questions": [
+        "Does the time reset to a specific date, like the year 2000?",
+        "Does this happen after the PC has been powered off for a while?",
+        "Does it happen every time?"
+      ],
+      "troubleshooting_steps": [
+        "Go to Date & Time settings and ensure 'Set time automatically' is on",
+        "Click 'Sync now' to sync with the time server",
+        "Explain that this is a classic symptom of a failing CMOS battery on the motherboard",
+        "Update the BIOS, as this can sometimes resolve timekeeping issues"
+      ],
+      "quick_fixes": [
+        "Manually correct the time after each boot"
+      ],
+      "escalation_criteria": "This issue requires hardware service to replace the CMOS battery; escalate for service",
+      "ticketing_fields": [
+        "Issue summary",
+        "Device model",
+        "Confirmation of symptoms",
+        "Steps attempted"
+      ],
+      "kb_links": [
+        "https://h30434.www3.hp.com/t5/Peripheral-Device-Support/CMOS-Time-Reset/td-p/68686"
       ]
     }
-  ],
+],
   "tickets": [
     {
       "id": "TICKET-001",
