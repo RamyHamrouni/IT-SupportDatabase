@@ -51,7 +51,7 @@ def get_tickets():
 def create_ticket(ticket: Ticket,user_id:str):
     new_ticket = {
         "id": f"TICKET-{len(db['tickets']) + 1:03d}",
-        "user": {user_id},
+        "user": user_id,
         "description": ticket.description,
         "status": ticket.status
     }
