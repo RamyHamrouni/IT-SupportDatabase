@@ -16,7 +16,6 @@ allow_headers=["*"],
 )
 
 class Ticket(BaseModel):
-    user: str
     description: str
     status: str = "open"   # default status
 
