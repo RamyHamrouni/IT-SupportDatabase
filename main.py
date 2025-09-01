@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi import Query
+
 
 import json
 
@@ -62,7 +64,15 @@ def create_ticket(ticket: Ticket):
         json.dump(db, f, indent=2)
 
     return {"message": "Ticket created successfully ✅", "ticket": new_ticket}
-
+@app.get("/tickets")
+def get_tickets(user_id: str | None = Query(default=None)):
+    """
+    Fetch all tickets, or tickets for a specific user if `user_id` is provided.
+    """
+    if user_id:
+        user_tickets = [t for t in db["tickets"] if t["user"] == user_id]
+        return user_tickets
+    return db["tickets"]
 
 
 @app.get("/kb/{id}")
