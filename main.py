@@ -48,7 +48,7 @@ def get_guides():
 def get_tickets():
     return db["tickets"]
 @app.post("/tickets/{user_id}")
-def create_ticket(ticket: Ticket):
+def create_ticket(ticket: Ticket,user_id:str):
     new_ticket = {
         "id": f"TICKET-{len(db['tickets']) + 1:03d}",
         "user": {user_id},
