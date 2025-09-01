@@ -48,11 +48,11 @@ def get_guides():
 @app.get("/tickets")
 def get_tickets():
     return db["tickets"]
-@app.post("/tickets")
+@app.post("/tickets/{user_id}")
 def create_ticket(ticket: Ticket):
     new_ticket = {
         "id": f"TICKET-{len(db['tickets']) + 1:03d}",
-        "user": ticket.user,
+        "user": {user_id},
         "description": ticket.description,
         "status": ticket.status
     }
@@ -62,7 +62,7 @@ def create_ticket(ticket: Ticket):
     with open("db.json", "w") as f:
         json.dump(db, f, indent=2)
 
-    return {"message": "Ticket created successfully ✅", "ticket": new_ticket}
+    return {"message": "Ticket created successfully !", "ticket": new_ticket}
 @app.get("/tickets/{user_id}")
 def get_tickets_by_user(user_id: str):
     """
